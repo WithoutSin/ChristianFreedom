@@ -4,7 +4,7 @@
 ###Chapers
  1. Chapter 1 -[The Philosophy (Expanded for Christians)](ChristianFreedomByBrianWebbChapter01–ThePhilosophy_ExpandedForChristians.md)
  2. Chapter 2 - [Why we are having these challenges today]( ChristianFreedomByBrianWebbChapter2–WhyWeAreHavingTheseChallengesToday.md)
- 3. Chapter 3 - The Yahweh Names, and why this matters
+ 3. Chapter 3 - [The Yahweh Names, and why this matters]( ChristianFreedomByBrianWebb–Chapter3TheYahwehNamesAndWhyThisMatters.md)
  4. Chapter 4 - The Prophesy of the Law, and how it was fulfilled
  5. Chapter 5 - Truth of Romans 13, and why it has nothing to do with Government
  6. Chapter 6 - Can I come unto God?
