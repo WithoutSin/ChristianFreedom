@@ -1,4 +1,4 @@
-#Christian Freedom! by Brian Webb: Chapter 5: Truth of Romans 13, and why it has nothing to do with Government #
+#Chapter 5: Truth of Romans 13, and why it has nothing to do with Government #
 
 ## Let every person be subject to the governing authorities ##
 
