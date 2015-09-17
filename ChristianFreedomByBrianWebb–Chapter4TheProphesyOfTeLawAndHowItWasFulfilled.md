@@ -1,6 +1,6 @@
 #Christian Freedom! by Brian Webb – Chapter 4: The Prophesy of the Law, and how it was fulfilled#
 
-Romans 2
+##Romans 2##
 
 > Chapter 2: 1 Therefore you have no excuse, everyone of you who passes judgment, for in that which you judge another, you condemn yourself; for you who judge practice the same things. 2 And we know that the judgment of God rightly falls upon those who practice such things. 3 But do you suppose this, O man, when you pass judgment on those who practice such things and do the same yourself, that you will escape the judgment of God? 4 Or do you think lightly of the riches of His kindness and tolerance and patience, not knowing that the kindness of God leads you to repentance? 5 But because of your stubbornness and unrepentant heart you are storing up wrath for yourself in the day of wrath and revelation of the righteous judgment of God, 6 who WILL RENDER TO EACH PERSON ACCORDING TO HIS DEEDS: 7 to those who by perseverance in doing good seek for glory and honor and immortality, eternal life; 8 but to those who are selfishly ambitious and do not obey the truth, but obey unrighteousness, wrath and indignation. 9 There will be tribulation and distress for every soul of man who does evil, of the Jew first and also of the Greek, 10 but glory and honor and peace to everyone who does good, to the Jew first and also to the Greek. 11 For there is no partiality with God.
 
@@ -20,7 +20,8 @@ Are you seeing a pattern here? People basically suck. Let me be a lot clearer, t
 
 This is key. If you are circumcised, and don’t follow the law, then you have just had the equivalent of cosmetic surgery, but if you do follow the law, but are not circumcised, then your actions show that the circumcision is in your heart and not in your flesh. I want you to remember this, because in just a little bit more, you are going to see a revelation that is going to shake your world.
 
-> Chapter 3: 1 Then what advantage has the Jew? Or what is the benefit of circumcision? 2 Great in every respect. First of all, that they were entrusted with the oracles of God. 3 What then? If some did not believe, their unbelief will not nullify the faithfulness of God, will it? 4 May it never be! Rather, let God be found true, though every man be found a liar, as it is written,
+##Romans 3##
+>1 Then what advantage has the Jew? Or what is the benefit of circumcision? 2 Great in every respect. First of all, that they were entrusted with the oracles of God. 3 What then? If some did not believe, their unbelief will not nullify the faithfulness of God, will it? 4 May it never be! Rather, let God be found true, though every man be found a liar, as it is written,
 > 
 > “THAT YOU MAY BE JUSTIFIED IN YOUR WORDS, AND PREVAIL WHEN YOU ARE JUDGED.”
 
@@ -52,7 +53,7 @@ This new law is the justification by God as a gift by His grace. Christ Jesus is
 
 Again, did you see that? Where the old law was by works, the new law is of faith. We are not justified by the works of the old law, but by faith of the new law of righteousness. We are justified by faith. This isn’t a nullification of the law, but an establishment of it. Do you remember what the purpose of the law is?
 
-Romans 4
+##Romans 4##
 >1 What then shall we say that Abraham, our forefather according to the flesh, has found? 2 For if Abraham was justified by works, he has something to boast about, but not before God. 3 For what does the Scripture say? “ABRAHAM BELIEVED GOD, AND IT WAS CREDITED TO HIM AS RIGHTEOUSNESS.” 4 Now to the one who works, his wage is not credited as a favor, but as what is due. 5 But to the one who does not work, but believes in Him who justifies the ungodly, his faith is credited as righteousness, 6 just as David also speaks of the blessing on the man to whom God credits righteousness apart from works:
 > 
 > 7 “BLESSED ARE THOSE WHOSE LAWLESS DEEDS HAVE BEEN FORGIVEN, AND WHOSE SINS HAVE BEEN COVERED. 8 “BLESSED IS THE MAN WHOSE SIN THE LORD WILL NOT TAKE INTO ACCOUNT.”
@@ -71,7 +72,7 @@ So if law could make one righteous, then there would be no need for faith.
 
 So the work is done, what is next. Why are we getting this?
 
-Romans 5 
+##Romans 5##
 >1 Therefore, having been justified by faith, we have peace with God through our Lord Jesus Christ, 2 through whom also we have obtained our introduction by faith into this grace in which we stand; and we exult in hope of the glory of God. 3 And not only this, but we also exult in our tribulations, knowing that tribulation brings about perseverance; 4 and perseverance, proven character; and proven character, hope; 5 and hope does not disappoint, because the love of God has been poured out within our hearts through the Holy Spirit who was given to us.
 
 What is this hope? Well if the flesh cannot become righteous, then don’t look as the hope as something after the flesh.
