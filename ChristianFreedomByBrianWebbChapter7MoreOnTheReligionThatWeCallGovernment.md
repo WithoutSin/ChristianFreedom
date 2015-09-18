@@ -171,7 +171,7 @@ Why review this
       * Not all are coming home in pieces, if they were, we would have not new volunteers. No, the idea is to keep the numbers down as far as possible, so that recruitment is high enough to make sure that the government can strip these perfectly healthy people of their human nature, which is needed for war, then return them to the public when done. All damage included.
       * If you really want to see peace in any region that is in an escalating conflict, look at who is funding the effort, and where the money is going. In the end, you will discover that whenever you have a large standing military, you will always find a reason to use it.
 
-##Is man's government always wrong, or always seeking war?
+###Is man's government always wrong, or always seeking war?
 Let’s look at Pearl Harbor
 
 Book: Day of Deceit: The Truth About FDR and Pearl Harbor by Robert Stinnett
