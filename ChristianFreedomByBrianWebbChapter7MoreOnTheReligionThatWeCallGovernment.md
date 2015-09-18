@@ -154,7 +154,7 @@ I will say I won’t call Christ Jesus anything other than what is written, for 
 Now let’s look at verse 5, the darkness doesn’t comprehend that light. This is why we are even talking about this. When you walk by the government you are walking by the darkness of this world. If you are walking by the light of others teaching, then you are walking also in their shadows of their mistakes. But if you come to God directly, then you allow Him to provide your light. I can only show you what is reflected from me. You now have the knowledge to come to him directly, and learn from both what he has written, and what he reveals to you directly. Just remember to test all new knowledge, all new wisdom, against the knowledge of Christ in the scriptures. This is how you know that the wisdom and knowledge is from God.
 Why review this
 
-Government is the epitome of an evil false religion with an evil god. It is idolatry.
+##Government is the epitome of an evil false religion with an evil god. It is idolatry.
 
 * Government collects tithes, but by force.
 * Government has its high priests, the modern Pharisees and Sadducees called Judges and Legislators.
