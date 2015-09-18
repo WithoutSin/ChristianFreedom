@@ -10,4 +10,4 @@
  6. Chapter 6 - [Can I come unto God?](ChristianFreedomByBrianWebbChapter6CanIComeUntoGod.md)
  7. Chapter 7 - [More on the religion that we call Government](ChristianFreedomByBrianWebbChapter7MoreOnTheReligionThatWeCallGovernment.md)
  8. Chapter 8 - [What is the burning lake? Why would you bother fearing it?](ChristianFreedomByBrianWebbChapter8WhatIsTheBurningLakeWhyWouldYouBotherFearingIt.md)
- 9. Chapter 9 - A closing note to Christians, Other Theists, Atheist and Agnostics.
+ 9. Chapter 9 - [A closing note to Christians, Other Theists, Atheist and Agnostics.](ChristianFreedomByBrianWebbChapter9AClosingNoteToChristiansOtherTheistsAtheistAndAgnostics.md)
