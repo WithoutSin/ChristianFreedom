@@ -11,8 +11,8 @@ I had gotten suckered into fearing money lately. It wouldn't be there. I would h
 >**15:** וַיִּבֶן מֹשֶׁה מִזְבֵּחַ וַיִּקְרָא שְׁמֹו יְהוָה נִסִּֽי׃ <br/>
 >**16:** וַיֹּאמֶר כִּֽי־יָד עַל־כֵּס יָהּ מִלְחָמָה לַיהוָה בַּֽעֲמָלֵק מִדֹּר דֹּֽר׃ פ 
 
-**My English Translation**
->God (Yĕhovah) instructed Moses to write this document as a record, reveal God is savior (יְהוֹשׁוּעַ - Joshua) to remove from memory Amalek from under the whole sky.
+**My English Translation, based on possible meaning**
+>God (Yĕhovah) instructed Moses to write this document as a record, reveal God is savior (יְהוֹשׁוּעַ - Joshua) to remove from memory Amalek from under the whole sky. *More being added here as I translate*
 
 **NASB Translation**
 >**14** Then the LORD said to Moses, “Write this in a book as a memorial and recite it to  Joshua, that I will utterly blot out the memory of Amalek from under heaven.” **15** Moses built an altar and named it The LORD is My Banner; **16** and he said, “The LORD has sworn; the LORD will have war against Amalek from generation to generation.”
@@ -23,7 +23,7 @@ The Amalek came and fought against the Israelites, and they turned to God for he
 **Hebrew**
 >וַיִּבֶן מֹשֶׁה מִזְבֵּחַ וַיִּקְרָא שְׁמֹו יְהוָה נִסִּֽי׃ 
 
-**My English Translation**
+**My English Translation, based on possible meaning**
 >Israel adored Joseph declaring "In the presence of God ('Elohiym), who my forefathers, Abraham and Isaac walked, God ('Elohiym) who is called my shepherd, of His friendship (ra'ah), from all these days.
 
 **NASB Translation**
