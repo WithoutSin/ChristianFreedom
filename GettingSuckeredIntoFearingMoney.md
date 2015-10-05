@@ -12,7 +12,7 @@ I had gotten suckered into fearing money lately. It wouldn't be there. I would h
 >**16:** וַיֹּאמֶר כִּֽי־יָד עַל־כֵּס יָהּ מִלְחָמָה לַיהוָה בַּֽעֲמָלֵק מִדֹּר דֹּֽר׃ פ 
 
 **My English Translation, based on possible meaning**
->14 God (Yĕhovah) instructed Moses to write this document as a record, reveal God is savior (יְהוֹשׁוּעַ - Joshua) to remove from memory Amalek from under the whole sky. 15 Moses built an alter named The True God (Yhovah), my sign.  *More being added here as I translate*
+>14 God (Yĕhovah) instructed Moses to write this document as a record, reveal God is savior (יְהוֹשׁוּעַ - Joshua) to remove from memory Amalek from under the whole sky. 15 Moses built an alter named The True God (Yhovah) is my sign.  *More being added here as I translate*
 
 **NASB Translation**
 >**14** Then the LORD said to Moses, “Write this in a book as a memorial and recite it to  Joshua, that I will utterly blot out the memory of Amalek from under heaven.” **15** Moses built an altar and named it The LORD is My Banner; **16** and he said, “The LORD has sworn; the LORD will have war against Amalek from generation to generation.”
