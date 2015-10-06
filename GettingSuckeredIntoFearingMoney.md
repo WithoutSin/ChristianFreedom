@@ -15,7 +15,7 @@ I had gotten suckered into fearing money lately. It wouldn't be there. I would h
 >14 God (Yĕhovah) instructed Moses to write this document as a record, reveal God is savior (יְהוֹשׁוּעַ - Joshua) to remove from memory Amalek from under the whole sky. 15 Moses built an alter named The Lord is my banner<sup>1</sup>.  15 The Lord has sword to fight against the people from the valley (The Ameleks)<sup>2</sup> from generation to generation<sup>3</sup>.
 
 1. The Masoretic Text says "True God (Yhovah) is my sign (nec)", but the hebrew from the Tree of Life translation says Adonai-Nissi which is "Lord(Majestic form) [is my] banner"
-2. If you look at Genesis 48:15, the valley of darkness makes a lot of sence when you understand what that valley was for this time. Its a place where the high things of this world overcast the people of that land.
+2. If you look at Psalms 23:1-6, the valley of darkness makes a lot of sence when you understand what that valley was for this time. Its a place where the high things of this world overcast the people of that land.
 3. generations to generations is not 2 generations, it is a very long time. In modern english we may even say for all ages.
 
 **NASB Translation**
