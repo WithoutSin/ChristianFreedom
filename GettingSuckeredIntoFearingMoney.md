@@ -12,7 +12,10 @@ I had gotten suckered into fearing money lately. It wouldn't be there. I would h
 >**16:** וַיֹּאמֶר כִּֽי־יָד עַל־כֵּס יָהּ מִלְחָמָה לַיהוָה בַּֽעֲמָלֵק מִדֹּר דֹּֽר׃ פ 
 
 **My English Translation, based on possible meaning**
->14 God (Yĕhovah) instructed Moses to write this document as a record, reveal God is savior (יְהוֹשׁוּעַ - Joshua) to remove from memory Amalek from under the whole sky. 15 Moses built an alter named The True God (Yhovah) is my sign.  *[More being added here as I translate]*
+>14 God (Yĕhovah) instructed Moses to write this document as a record, reveal God is savior (יְהוֹשׁוּעַ - Joshua) to remove from memory Amalek from under the whole sky. 15 Moses built an alter named The Lord is my banner<sup>1</sup>.  15 The Lord has sword to fight against the people from the valley (The Ameleks)<sup>2</sup> form generation to generation.
+
+1. The Masoretic Text says "True God (Yhovah) is my sign (nec)", but the hebrew from the Tree of Life translation says Adonai-Nissi which is "Lord(Majestic form) [is my] banner"
+2. If you look at Genesis 48:15, the valley of darkness makes a lot of sence when you understand what that valley was for this time. Its a place where the high things of this world overcast the people of that land.
 
 **NASB Translation**
 >**14** Then the LORD said to Moses, “Write this in a book as a memorial and recite it to  Joshua, that I will utterly blot out the memory of Amalek from under heaven.” **15** Moses built an altar and named it The LORD is My Banner; **16** and he said, “The LORD has sworn; the LORD will have war against Amalek from generation to generation.”
