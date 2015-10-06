@@ -88,7 +88,7 @@ That can hold no water.
 >**11** Has a nation changed its gods—even though they are not gods? Yet My people have exchanged their glory for worthless things. **12** Be appalled at this, O heavens! Be utterly horrified and dumbfounded.” It is a declaration of Adonai<sup>4</sup>. 
 **13** My people have committed two evils: They have forsaken Me—the spring of living water—and they dug their own cisterns—cracked cisterns that hold no water. 
 
-4. If you are confused by Adonai, pls look [here](http://www.hebrew4christians.com/Names_of_G-d/Adonai/adonai.html) It has a very well definition and examples of that name.
+`4.` If you are confused by Adonai, pls look [here](http://www.hebrew4christians.com/Names_of_G-d/Adonai/adonai.html) It has a very well definition and examples of that name.
 
 This is what happened in Jeremiah's time. Are you doing this now? Who is your God? Is it mammon, or lust, or fear? What have you to fear who walks in Christ? Did not Job, who stood firmly on God's promise not have his life taken, just do it would be rebounded back to him in greater quantity? Or Lazarus who lost his breath life, had it restored for the glory of Christ? Are you not greater than the things of this world? Are your eyes not held on the things above, or do you gaze on the things of this world lusting after that which you don't need, but desire in your core, which is against the knowledge of God?
 
