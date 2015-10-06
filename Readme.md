@@ -1,5 +1,4 @@
 #Christian Freedom! and related materials
----
 ## Christian Freedom!
 ###Chapers
  1. Chapter 1 -[The Philosophy (Expanded for Christians)](ChristianFreedomByBrianWebbChapter01–ThePhilosophy_ExpandedForChristians.md)
