@@ -12,15 +12,22 @@ I had gotten suckered into fearing money lately. It wouldn't be there. I would h
 >**16:** וַיֹּאמֶר כִּֽי־יָד עַל־כֵּס יָהּ מִלְחָמָה לַיהוָה בַּֽעֲמָלֵק מִדֹּר דֹּֽר׃ פ 
 
 **My English Translation, based on possible meaning**
->14 God (Yĕhovah) instructed Moses to write this document as a record, reveal God is savior (יְהוֹשׁוּעַ - Joshua) to remove from memory Amalek from under the whole sky. 15 Moses built an alter named The Lord is my banner<sup>1</sup>.  15 The Lord has sword to fight against the people from the valley (The Ameleks)<sup>2</sup> form generation to generation.
+>14 God (Yĕhovah) instructed Moses to write this document as a record, reveal God is savior (יְהוֹשׁוּעַ - Joshua) to remove from memory Amalek from under the whole sky. 15 Moses built an alter named The Lord is my banner<sup>1</sup>.  15 The Lord has sword to fight against the people from the valley (The Ameleks)<sup>2</sup> from generation to generation<sup>3</sup>.
 
 1. The Masoretic Text says "True God (Yhovah) is my sign (nec)", but the hebrew from the Tree of Life translation says Adonai-Nissi which is "Lord(Majestic form) [is my] banner"
 2. If you look at Genesis 48:15, the valley of darkness makes a lot of sence when you understand what that valley was for this time. Its a place where the high things of this world overcast the people of that land.
+3. generations to generations is not 2 generations, it is a very long time. In modern english we may even say for all ages.
 
 **NASB Translation**
 >**14** Then the LORD said to Moses, “Write this in a book as a memorial and recite it to  Joshua, that I will utterly blot out the memory of Amalek from under heaven.” **15** Moses built an altar and named it The LORD is My Banner; **16** and he said, “The LORD has sworn; the LORD will have war against Amalek from generation to generation.”
 
 The Amalek came and fought against the Israelites, and they turned to God for help. God decided to take up the fight against the Amalek's for the benefit of his people. But the core of this isn't that God went to war against a group of people, it was that the Israelites turned back to God for help.
+
+Since God is fighting the dark forces from the shadows of the high things of this world, why do we get hurt, killed, and scared? How many of you are obedient to even read His words daily? How many of you talk with Him at least once a month? How many of you even know his promices? You have turned your backs to Him, hewn out of the dirt of this earth, cisterns, that are broken, and can hold no water. Then you rail against God when your cistern is bone dry. Or worst yet, God says he will fight the fight for you, and yet you jump out in front of His spear to fight the fight that He has claimed. 
+
+>"God, why am I impaled on your spear?", the unbeliever, or a false believer
+
+>"Who are you that have rejected me, and jumped infront of my spear, to fight a war that you cannot win?", a fictional illustration of a revelation from God.
 
 ###Genesis 48:15 - God is Shepherd###
 **Hebrew**
@@ -31,6 +38,9 @@ The Amalek came and fought against the Israelites, and they turned to God for he
 
 **NASB Translation**
 >He blessed Joseph, and said, “The God before whom my fathers Abraham and Isaac walked, The God who has been my shepherd all my life to this day,
+
+**Tree of Life Translation**
+>Then he blessed Joseph and said, “The God before whom my fathers Abraham and Isaac walked, The God who has shepherded me throughout my life to this day, 
 
 Abraham and Isaac walked with God. Joseph called God his shepherd. This means that Joseph knew that God was going to take care of him.
 
@@ -60,6 +70,7 @@ In the same chapter he takes care our path of righteousness. He guards us in the
 
 ##Why am I lacking?##
 ###Jeremiah 2:11-13###
+**NASB**
 > **11** “Has a nation changed gods<br/>
 When they were not gods?<br/>
 But My people have changed their glory<br/>
@@ -72,6 +83,10 @@ The fountain of living waters,<br/>
 To hew for themselves cisterns,<br/>
 Broken cisterns<br/>
 That can hold no water.
+
+**Tree of Life**
+>**11** Has a nation changed its gods—even though they are not gods? Yet My people have exchanged their glory for worthless things. **12** Be appalled at this, O heavens! Be utterly horrified and dumbfounded.” It is a declaration of Adonai. 
+**13** My people have committed two evils: They have forsaken Me—the spring of living water—and they dug their own cisterns—cracked cisterns that hold no water. 
 
 This is what happened in Jeremiah's time. Are you doing this now? Who is your God? Is it mammon, or lust, or fear? What have you to fear who walks in Christ? Did not Job, who stood firmly on God's promise not have his life taken, just do it would be rebounded back to him in greater quantity? Or Lazarus who lost his breath life, had it restored for the glory of Christ? Are you not greater than the things of this world? Are your eyes not held on the things above, or do you gaze on the things of this world lusting after that which you don't need, but desire in your core, which is against the knowledge of God?
 
