@@ -28,7 +28,7 @@ Yes, I do plan on adding code too. I chose this venue to hold everything, since 
     3. Other teachings. As people grow in both Freedom! and Christian Freedom!, I want to hear and share more teachings from more people, that they too may grow in Christ, and live with their Father, God almighty, Yahova, Elohim.
 
 #Will there be a final hosting location?
-Yes. I have aquired the domain (WithoutSin.org)[http://WithoutSin.org].
+Yes. I have aquired the domain [WithoutSin.org](http://WithoutSin.org).
 
 The goal of this site will be to provide in open source, a repository for:
  1. Teachings
