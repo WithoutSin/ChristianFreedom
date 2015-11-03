@@ -1,4 +1,6 @@
-#Getting suckered into fearing money _Work in progress_#
+#Getting suckered into fearing money#
+_Work in progress_
+
 <img class="alignnone size-medium wp-image-5323" src="https://brianbyexperience.files.wordpress.com/2015/08/christian-freedom-addtnl-info.png?w=300" alt="christian-freedom-addtnl-Info" width="300" height="50" />
 
 Fear is the opposite of trust. When you fear the things of this world, you are not trusting God. When there is trust, there is no fear.
