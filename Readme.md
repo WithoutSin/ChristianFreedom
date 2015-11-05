@@ -1,5 +1,6 @@
 #Christian Freedom! and related materials
-## Christian Freedom! _The whole book is a work in progress._
+## Christian Freedom! 
+_The whole book is a work in progress._
 ###Chapers
  1. Chapter 1 -[The Philosophy (Expanded for Christians)](ChristianFreedomByBrianWebbChapter01–ThePhilosophy_ExpandedForChristians.md)
  2. Chapter 2 - [Why we are having these challenges today]( ChristianFreedomByBrianWebbChapter2–WhyWeAreHavingTheseChallengesToday.md)
