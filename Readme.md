@@ -13,6 +13,7 @@
 
 ##Supplimental Information
  1. [Getting Suckered Into Fearing Money](GettingSuckeredIntoFearingMoney.md) _Work in progress_
+ 2. [Distances Travelled On The Wrong Paths](DistancesTravelledOnTheWrongPaths.md) _Work in progress_
 
 #Why Github?
 Yes, I do plan on adding code too. I chose this venue to hold everything, since everthing about this is to be open source, including the teachings. 
