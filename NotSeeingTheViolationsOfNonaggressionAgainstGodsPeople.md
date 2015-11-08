@@ -1,10 +1,6 @@
 Not Seeing The Violations Of Nonaggression Against God's People
 
-Some of you may know, and other may be astonished to figure out, I am an ordained minister. As such most traditional schools of Christianity violate NAP (Non-Aggression Principle) in one way or another.
-
-
 # Problem 1 - The Unrecognized Violation of NAP. #
-
 
 Some Examples
 
@@ -18,9 +14,7 @@ The problem with these is that they are all lies. I'll cover more on this later.
 
 # Problem 2 - Inconsistencies and Contradictions #
 
-
 But the other problem I have with traditional religion, and churches is the living contradictions.
-
 
 Some Examples:
 
