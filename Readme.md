@@ -13,9 +13,9 @@ _The whole book is a work in progress._
  9. Chapter 9 - [A closing note to Christians, Other Theists, Atheist and Agnostics.](ChristianFreedomByBrianWebbChapter9AClosingNoteToChristiansOtherTheistsAtheistAndAgnostics.md)
 
 ##Supplimental Information
- 1. [Getting Suckered Into Fearing Money](GettingSuckeredIntoFearingMoney.md) _Work in progress_
- 2. [Distances Travelled On The Wrong Paths](DistancesTravelledOnTheWrongPaths.md) _Work in progress_
- 3. [Not Seeing The Violations Of Nonaggression Against God's People](NotSeeingTheViolationsOfNonaggressionAgainstGodsPeople.md) _Work In Progress_
+ 1. [Getting Suckered Into Fearing Money](Docs/GettingSuckeredIntoFearingMoney.md) _Work in progress_
+ 2. [Distances Travelled On The Wrong Paths](Docs/DistancesTravelledOnTheWrongPaths.md) _Work in progress_
+ 3. [Not Seeing The Violations Of Nonaggression Against God's People](Docs/NotSeeingTheViolationsOfNonaggressionAgainstGodsPeople.md) _Work In Progress_
 
 #Why Github?
 Yes, I do plan on adding code too. I chose this venue to hold everything, since everthing about this is to be open source, including the teachings. 
