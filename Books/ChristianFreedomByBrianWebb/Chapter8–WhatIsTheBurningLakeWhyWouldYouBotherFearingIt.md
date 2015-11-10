@@ -6,8 +6,7 @@ Let’s look at the words that get translated to hell
 ##Hebrew
 ###Kĕluwhay
 I don’t know why this word show up as Hell, but it does. The word is a person’s name. I would say that is a sucky name, but I suspect that the Hebrew scholars out there would have more useful information. Occurs once.
-shĕ’owl
-
+###shĕ’owl
 A hole in the ground, for the dead. There is a useful note though, Deuteronomy 32:22, Burn into the pit. If you read this in full context, this isn’t hell in the fabled way, but the absolute destruction of the area. I would try to visually equate it to Mt St Hellen or a Meteor Impact. If hell is a pit for the dead, then the lowest hell in this would be the deepest burial pit. The destruction would be so intense that even the long dead would be consumed. Occurs 65 times.
 ##Greek
 ###hadēs
