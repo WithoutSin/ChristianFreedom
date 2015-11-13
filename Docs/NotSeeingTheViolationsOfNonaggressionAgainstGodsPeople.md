@@ -34,7 +34,7 @@ Then when we continue to read, we discover that the law, The Mosaic Law, was nev
 
 So should we sin by the measure of the law? To what benefit? To prove the righteousness of Christ Jesus? He is righteous if you sin or don't, so why seek sin? Should we resume obedience to the law? We are called the body of Christ, and Jesus is the head. The body cannot sin, unless the head wills it to. So our very existence is the obedience to the law.
 
-## Should we resume the sacrifices before the alter? Who would be the priest?  ## 
+## Should we resume the sacrifices before the alter?  Who would be the priest?  ##
 
 I tell you now, the Lamb of God, made perfect by God, called out to be the payment for our sins was already sacrificed, you cannot sacrifice a single dove or goat more to change your righteousness that was given to you freely in Christ.
 
