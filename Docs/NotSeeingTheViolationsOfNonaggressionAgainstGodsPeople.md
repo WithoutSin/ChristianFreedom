@@ -1,4 +1,4 @@
-Not Seeing The Violations Of Nonaggression Against God's People
+Not Seeing The Violations Of Nonaggression (NAP) Against God's People
 
 # Problem 1 - The Unrecognized Violation of NAP. #
 
@@ -8,17 +8,15 @@ Some Examples
 2. The bondage God (The God who wants robots and slaves)
 3. The thoughtless heartless God (The God who only wants to support his vanity, and we are to be screwed at his whims.
 
-
 The problem with these is that they are all lies. I'll cover more on this later.
-
 
 # Problem 2 - Inconsistencies and Contradictions #
 
-But the other problem I have with traditional religion, and churches is the living contradictions.
+1. Failing churches of traditional religion, rather than growing churches of the body of Christ Jesus.
 
 Some Examples:
 
-1. The trinity. (Stop.. If you are Trinitarian, and you decide to read this, you will not be greatly offended. I am not here to give you another god or to tell you that you have been worshiping a lie. If you are already offended, and you just want to lambaste me without ready my comments, I will probably ignore you. Not being mean or thoughtless, but I am posting my thoughts here, so before lambasting me, read them first please. Also note that I am not denying any name or claim Jesus made of himself. The word trinity cannot be found in the scriptures.)
+1. The trinity. (Pause.. If you are Trinitarian, and you decide to read this, you will not be greatly offended. I am not here to give you another god or to tell you that you have been worshiping a lie. If you are already offended, and you just want to lambaste me without reading my comments, I will probably ignore you. Not being mean or thoughtless, but I am posting my thoughts here, so before lambasting me, read them first please. Also note that I am not denying any name or claim Jesus made of himself. The word trinity cannot be found in the scriptures, and man's titles for the Father and the Son as but dust compared to the ones that he gave himself.)
 2. Paul was told to not go to Jerusalem, then they prophesied for him to not to go to Jerusalem, even Paul said that his spirit withheld him from going, yet he went and all the bad stuff happened. But yet, Paul was supposedly doing what God wanted? This is really an issue of punctuation, chapter breaks, and verse breaks. If your church isn't covering these translational issues with you, then you are not getting the word of God.
 3. "I try to base my political views on Christ." Wha?! Christ Jesus again and again snubbed the governments. Tax collector tried to collect taxes from Jesus, his answer was that if they found any coin in the fish caught, that would be used to pay taxes. Great isn't it! Even better was the turning over of the tables in the temples from the money changers. And there are more. However, the church teaches obedience to the state, and conformity to the church of the great and terrible business called government.
 
