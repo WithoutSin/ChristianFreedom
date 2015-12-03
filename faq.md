@@ -1,4 +1,4 @@
-* [Back to Readme](readme.md)
+* [Back to Readme](Readme.md)
 #FAQ
 ##Why Github?
 Yes, I do plan on adding code too. I chose this venue to hold everything, since everthing about this is to be open source, including the teachings. 
