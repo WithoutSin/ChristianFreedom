@@ -21,10 +21,10 @@ _The whole book is a work in progress._
 
 * [Introduction](Books/Freedom-by-Adam-Kokesh/Freedom! by Adam Kokesh Introduction.md)
 
-1. [The Philosophy](Books/Freedom-by-Adam-Kokesh/Freedom! by Adam Kokesh Ch01.md)
-2. [A Brief History of Power](Books/Freedom-by-Adam-Kokesh/Freedom! by Adam Kokesh Ch02.md)
-3. [War](Books/Freedom-by-Adam-Kokesh/Freedom! by Adam Kokesh Ch03.md)
-4. [Personal Security](Books/Freedom-by-Adam-Kokesh/Freedom! by Adam Kokesh Ch04.md)
+1. [The Philosophy](Books/Freedom-by-Adam-Kokesh/Freedom!%20by%20Adam%20Kokesh%20Ch01.md)
+2. [A Brief History of Power](Books/Freedom-by-Adam-Kokesh/Freedom!%20by%20Adam%20Kokesh%20Ch02.md)
+3. [War](Books/Freedom-by-Adam-Kokesh/Freedom!%20by%20Adam%20Kokesh%20Ch03.md)
+4. [Personal Security](Books/Freedom-by-Adam-Kokesh/Freedom!%20by%20Adam%20Kokesh%20Ch04.md)
 5. Taxation
 6. Economics
 7. Other Destructive Rackets
