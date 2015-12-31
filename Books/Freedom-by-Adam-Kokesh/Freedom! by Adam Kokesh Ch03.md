@@ -54,7 +54,7 @@ Governments love foreign aid because it allows them to buy off smaller governmen
 
 There are tragedies going on all over the world and many caring people genuinely want to help. When we pool resources, amazing things can happen. Sometimes, even governments accomplish great feats of relief. Unfortunately, foreign aid funded by theft and carried out by people who are unaccountable for the results predictably leads to diversion of funds for personal gain.
 	
-###. War on Terror
+###6. War on Terror
 	
 Governments come up with many excuses for war, but the "war on terror" is especially dangerous because it can be used to keep a country in an endless state of war. Because government programs are very difficult to end, an armed conflict against an unspecified enemy is every government's dream come true: perpetual war. The policies of the war on terror, as with most government programs, cause more of the problem. Governments of developed countries that occupy and intrude on developing nations cause terrorism. People resent having their societies taken over by foreign militaries, and after seeing their families killed and their way of life destroyed, resentment can become so great as to drive people to horrific violence. Foreign occupations cause such despair that victims often find their lives worth so little as to be easily sacrificed in resistance.
 
