@@ -21,7 +21,7 @@ _The whole book is a work in progress._
 
 * [Introduction](Books/Freedom-by-Adam-Kokesh/Freedom! by Adam Kokesh Introduction.md)
 
-1. The Philosophy
+1. [The Philosophy](Books/Freedom-by-Adam-Kokesh/Freedom! by Adam Kokesh Ch01.md)
 2. A Brief History of Power
 3. War
 4. Personal Security
