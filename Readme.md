@@ -17,5 +17,21 @@ _The whole book is a work in progress._
  2. [Distances Travelled On The Wrong Paths](Docs/DistancesTravelledOnTheWrongPaths.md) _Work in progress_
  3. [Not Seeing The Violations Of Nonaggression Against God's People](Docs/NotSeeingTheViolationsOfNonaggressionAgainstGodsPeople.md) _Work In Progress_
 
+##Freedom! by Adam Kokesh (What inspired this book)
+
+Introduction
+
+1. The Philosophy
+2. A Brief History of Power
+3. War
+4. Personal Security
+5. Taxation
+6. Economics
+7. Other Destructive Rackets
+8. Government & Love 
+9. True Personal Freedom
+10. The Future of Freedom
+Afterword 
+
 #Other links
 * [FAQ](faq.md) 
