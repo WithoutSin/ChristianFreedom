@@ -19,7 +19,7 @@ _The whole book is a work in progress._
 
 ##Freedom! by Adam Kokesh (What inspired Christian Freedom!)
 
-Introduction
+[Introduction[(Books/Freedom-by-Adam-Kokesh/Freedom! by Adam Kokesh Introduction.md)
 
 1. The Philosophy
 2. A Brief History of Power
