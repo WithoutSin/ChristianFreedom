@@ -17,7 +17,7 @@ _The whole book is a work in progress._
  2. [Distances Travelled On The Wrong Paths](Docs/DistancesTravelledOnTheWrongPaths.md) _Work in progress_
  3. [Not Seeing The Violations Of Nonaggression Against God's People](Docs/NotSeeingTheViolationsOfNonaggressionAgainstGodsPeople.md) _Work In Progress_
 
-##Freedom! by Adam Kokesh (What inspired Christian Freedom!)
+##Freedom! by Adam Kokesh <sub>the book that inspired Christian Freedom!</sub>
 
 * [Introduction](Books/Freedom-by-Adam-Kokesh/Freedom! by Adam Kokesh Introduction.md)
 
