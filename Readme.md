@@ -18,6 +18,7 @@ _The whole book is a work in progress._
  3. [Not Seeing The Violations Of Nonaggression Against God's People](Docs/NotSeeingTheViolationsOfNonaggressionAgainstGodsPeople.md) _Work In Progress_
 
 ##Freedom! by Adam Kokesh <sub>the book that inspired Christian Freedom!</sub>
+NOTE: Still being converted over from raw .txt to .md. Unicode characters are a pain.
 
 * [Introduction](Books/Freedom-by-Adam-Kokesh/Freedom! by Adam Kokesh Introduction.md)
 
@@ -25,12 +26,12 @@ _The whole book is a work in progress._
 2. [A Brief History of Power](Books/Freedom-by-Adam-Kokesh/Freedom!%20by%20Adam%20Kokesh%20Ch02.md)
 3. [War](Books/Freedom-by-Adam-Kokesh/Freedom!%20by%20Adam%20Kokesh%20Ch03.md)
 4. [Personal Security](Books/Freedom-by-Adam-Kokesh/Freedom!%20by%20Adam%20Kokesh%20Ch04.md) 
-5. Taxation
-6. Economics
-7. Other Destructive Rackets
-8. Government & Love 
-9. True Personal Freedom
-10. The Future of Freedom
+5. [Taxation](Books/Freedom-by-Adam-Kokesh/Freedom!%20by%20Adam%20Kokesh%20Ch05.md) 
+6. [Economics](Books/Freedom-by-Adam-Kokesh/Freedom!%20by%20Adam%20Kokesh%20Ch06.md) 
+7. [Other Destructive Rackets](Books/Freedom-by-Adam-Kokesh/Freedom!%20by%20Adam%20Kokesh%20Ch07.md) 
+8. [Government & Love](Books/Freedom-by-Adam-Kokesh/Freedom!%20by%20Adam%20Kokesh%20Ch08.md) 
+9. [True Personal Freedom](Books/Freedom-by-Adam-Kokesh/Freedom!%20by%20Adam%20Kokesh%20Ch09.md) 
+10. [The Future of Freedom](Books/Freedom-by-Adam-Kokesh/Freedom!%20by%20Adam%20Kokesh%20Ch10.md) 
 * Afterword 
 
 #Other links
