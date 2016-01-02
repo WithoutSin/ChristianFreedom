@@ -20,8 +20,7 @@ _The whole book is a work in progress._
 ##Freedom! by Adam Kokesh <sub>the book that inspired Christian Freedom!</sub>
 NOTE: Still being converted over from raw .txt to .md. Unicode characters are a pain.
 
-* [Introduction](Books/Freedom-by-Adam-Kokesh/Freedom! by Adam Kokesh Introduction.md)
-
+0. [Introduction](Books/Freedom-by-Adam-Kokesh/Freedom!%20by%20Adam%20Kokesh%20Introduction.md)
 1. [The Philosophy](Books/Freedom-by-Adam-Kokesh/Freedom!%20by%20Adam%20Kokesh%20Ch01.md)
 2. [A Brief History of Power](Books/Freedom-by-Adam-Kokesh/Freedom!%20by%20Adam%20Kokesh%20Ch02.md)
 3. [War](Books/Freedom-by-Adam-Kokesh/Freedom!%20by%20Adam%20Kokesh%20Ch03.md)
@@ -32,7 +31,7 @@ NOTE: Still being converted over from raw .txt to .md. Unicode characters are a 
 8. [Government & Love](Books/Freedom-by-Adam-Kokesh/Freedom!%20by%20Adam%20Kokesh%20Ch08.md) 
 9. [True Personal Freedom](Books/Freedom-by-Adam-Kokesh/Freedom!%20by%20Adam%20Kokesh%20Ch09.md) 
 10. [The Future of Freedom](Books/Freedom-by-Adam-Kokesh/Freedom!%20by%20Adam%20Kokesh%20Ch10.md) 
-* Afterword 
+11. [Afterword](Books/Freedom-by-Adam-Kokesh/Freedom!%20by%20Adam%20Kokesh%20Afterword.md) 
 
 #Other links
 * [FAQ](faq.md) 
