@@ -17,7 +17,7 @@ _The whole book is a work in progress._
  2. [Distances Travelled On The Wrong Paths](Docs/DistancesTravelledOnTheWrongPaths.md) _Work in progress_
  3. [Not Seeing The Violations Of Nonaggression Against God's People](Docs/NotSeeingTheViolationsOfNonaggressionAgainstGodsPeople.md) _Work In Progress_
  4. [Does God need a starship?](Docs/DoesGodneedastarship.md) _Work In Progress_
- 5. You have to put on Christ Jesus so that you are covered when the world comes off
+ 5. Putting on Christ Jesus so that you can take the world off
  6. Turning to the fountain of living waters
  7. The renewed mind: Knowing what is good
  8. Walking the book of Romans
