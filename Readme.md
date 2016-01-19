@@ -22,16 +22,16 @@ _The whole book is a work in progress._
 NOTE: Still being converted over from raw .txt to .md. Unicode characters are a pain.
 
 00. [Introduction](Books/Freedom-by-Adam-Kokesh/Freedom!%20by%20Adam%20Kokesh%20Introduction.md)
-01. [Chapter 1: The Philosophy](Books/Freedom-by-Adam-Kokesh/Freedom!%20by%20Adam%20Kokesh%20Ch01.md)
-02. [Chapter 2: A Brief History of Power](Books/Freedom-by-Adam-Kokesh/Freedom!%20by%20Adam%20Kokesh%20Ch02.md)
-03. [Chapter 3: War](Books/Freedom-by-Adam-Kokesh/Freedom!%20by%20Adam%20Kokesh%20Ch03.md)
-04. [Chapter 4: Personal Security](Books/Freedom-by-Adam-Kokesh/Freedom!%20by%20Adam%20Kokesh%20Ch04.md) 
-05. [Chapter 5: Taxation](Books/Freedom-by-Adam-Kokesh/Freedom!%20by%20Adam%20Kokesh%20Ch05.md) 
-06. [Chapter 6: Economics](Books/Freedom-by-Adam-Kokesh/Freedom!%20by%20Adam%20Kokesh%20Ch06.md) 
-07. [Chapter 7: Other Destructive Rackets](Books/Freedom-by-Adam-Kokesh/Freedom!%20by%20Adam%20Kokesh%20Ch07.md) 
-08. [Chapter 8: Government & Love](Books/Freedom-by-Adam-Kokesh/Freedom!%20by%20Adam%20Kokesh%20Ch08.md) 
-09. [Chapter 9: True Personal Freedom](Books/Freedom-by-Adam-Kokesh/Freedom!%20by%20Adam%20Kokesh%20Ch09.md) 
-10. [Chapter 10: The Future of Freedom](Books/Freedom-by-Adam-Kokesh/Freedom!%20by%20Adam%20Kokesh%20Ch10.md) 
+01. Chapter 1: [The Philosophy](Books/Freedom-by-Adam-Kokesh/Freedom!%20by%20Adam%20Kokesh%20Ch01.md)
+02. Chapter 2: [A Brief History of Power](Books/Freedom-by-Adam-Kokesh/Freedom!%20by%20Adam%20Kokesh%20Ch02.md)
+03. Chapter 3: [War](Books/Freedom-by-Adam-Kokesh/Freedom!%20by%20Adam%20Kokesh%20Ch03.md)
+04. Chapter 4: [Personal Security](Books/Freedom-by-Adam-Kokesh/Freedom!%20by%20Adam%20Kokesh%20Ch04.md) 
+05. Chapter 5: [Taxation](Books/Freedom-by-Adam-Kokesh/Freedom!%20by%20Adam%20Kokesh%20Ch05.md) 
+06. Chapter 6: [Economics](Books/Freedom-by-Adam-Kokesh/Freedom!%20by%20Adam%20Kokesh%20Ch06.md) 
+07. Chapter 7: [Other Destructive Rackets](Books/Freedom-by-Adam-Kokesh/Freedom!%20by%20Adam%20Kokesh%20Ch07.md) 
+08. Chapter 8: [Government & Love](Books/Freedom-by-Adam-Kokesh/Freedom!%20by%20Adam%20Kokesh%20Ch08.md) 
+09. Chapter 9: [True Personal Freedom](Books/Freedom-by-Adam-Kokesh/Freedom!%20by%20Adam%20Kokesh%20Ch09.md) 
+10. Chapter 10: [The Future of Freedom](Books/Freedom-by-Adam-Kokesh/Freedom!%20by%20Adam%20Kokesh%20Ch10.md) 
 11. [Afterword](Books/Freedom-by-Adam-Kokesh/Freedom!%20by%20Adam%20Kokesh%20Afterword.md) 
 
 #Other links
