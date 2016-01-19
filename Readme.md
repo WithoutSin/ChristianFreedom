@@ -17,6 +17,21 @@ _The whole book is a work in progress._
  2. [Distances Travelled On The Wrong Paths](Docs/DistancesTravelledOnTheWrongPaths.md) _Work in progress_
  3. [Not Seeing The Violations Of Nonaggression Against God's People](Docs/NotSeeingTheViolationsOfNonaggressionAgainstGodsPeople.md) _Work In Progress_
  4. [Does God need a starship?](Docs/DoesGodneedastarship.md) _Work In Progress_
+ 5. You have to put on Christ Jesus so that you are covered when the world comes off
+ 6. Turning to the fountain of living waters
+ 7. The renewed mind: Knowing what is good
+ 8. Walking the book of Romans
+ 9. Shedding fear
+ 10. Living your new life in Christ
+ 11. Marriage and the state, vs Marriage and Christ
+ 12. Christ vision
+ 13. The one body, Husband and Wife
+ 14. Grooming your children to think, while they get to learn Christ
+ 15. The work ethic of a sound minded Christian
+ 16. Why the Apostle Paul was so hard to understand 2000 years ago, and why we are still having these problems
+ 17. Circumcision: What was of the flesh, is now of the heart
+ 18. Why all the water, a reality of the water baptism
+ 19. Meditation: Why it was so important in the bible
 
 ##Freedom! by Adam Kokesh <sub>the book that inspired Christian Freedom!</sub>
 NOTE: Still being converted over from raw .txt to .md. Unicode characters are a pain.
