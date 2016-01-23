@@ -2,7 +2,7 @@
 ## Christian Freedom! 
 _The whole book is a work in progress._
 ###Chapters
- 1. Chapter 1 -[The Philosophy (Expanded for Christians)](Books/ChristianFreedomByBrianWebb/Chapter01–ThePhilosophy_ExpandedForChristians.md)
+ 1. Chapter 1 -[The Philosophy (Expanded for Christians)](Books/ChristianFreedomByBrianWebb/Chapter1–ThePhilosophy_ExpandedForChristians.md)
  2. Chapter 2 - [Why we are having these challenges today]( Books/ChristianFreedomByBrianWebb/Chapter2–WhyWeAreHavingTheseChallengesToday.md)
  3. Chapter 3 - [The Yahweh Names, and why this matters]( Books/ChristianFreedomByBrianWebb/Chapter3–TheYahwehNamesAndWhyThisMatters.md)
  4. Chapter 4 - [The Prophesy of the Law, and how it was fulfilled](Books/ChristianFreedomByBrianWebb/Chapter4–TheProphesyOfTheLawAndHowItWasFulfilled.md)
