@@ -13,7 +13,7 @@ _The whole book is a work in progress._
 9. Chapter 8 - [What is the burning lake? Why would you bother fearing it?](Books/ChristianFreedomByBrianWebb/Chapter8–WhatIsTheBurningLakeWhyWouldYouBotherFearingIt.md)
 10. Chapter 9 - [A closing note to Christians, Other Theists, Atheist and Agnostics.](Books/ChristianFreedomByBrianWebb/Chapter9–AClosingNoteToChristiansOtherTheistsAtheistAndAgnostics.md)
 
-##Supplimental Information
+##supplemental Information
  1. [Getting Suckered Into Fearing Money](Docs/GettingSuckeredIntoFearingMoney.md) _Work in progress_
  2. [Distances Travelled On The Wrong Paths](Docs/DistancesTravelledOnTheWrongPaths.md) _Work in progress_
  3. [Not Seeing The Violations Of Nonaggression Against God's People](Docs/NotSeeingTheViolationsOfNonaggressionAgainstGodsPeople.md) _Work In Progress_
