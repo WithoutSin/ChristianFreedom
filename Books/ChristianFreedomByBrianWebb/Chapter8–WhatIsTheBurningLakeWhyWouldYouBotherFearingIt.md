@@ -1,4 +1,4 @@
- #Chapter 8: What is the burning lake? Why would you bother fearing it?
+# Chapter 8: What is the burning lake? Why would you bother fearing it?
 
 Why bring this up? If I cannot free you from the fear of sin, and give you a tool to remove the fear of punishment from people, then I am remiss on promoting freedom.
 
