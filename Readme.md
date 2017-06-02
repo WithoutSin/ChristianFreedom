@@ -16,7 +16,7 @@ _The whole book is a work in progress._
 
 ##supplemental Information
  1. [Getting Suckered Into Fearing Money](Docs/GettingSuckeredIntoFearingMoney.md) _Work in progress_
- 2. [Distances Travelled On The Wrong Paths](Docs/DistancesTravelledOnTheWrongPaths.md) _Work in progress_
+ 2. [Distances Traveled On The Wrong Paths](Docs/DistancesTraveledOnTheWrongPaths.md) _Work in progress_
  3. [Not Seeing The Violations Of Nonaggression Against God's People](Docs/NotSeeingTheViolationsOfNonaggressionAgainstGodsPeople.md) _Work In Progress_
  4. [Does God need a starship?](Docs/DoesGodneedastarship.md) _Work In Progress_
  5. Putting on Christ Jesus so that you can take the world off
