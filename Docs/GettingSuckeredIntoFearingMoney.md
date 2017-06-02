@@ -1,4 +1,4 @@
-# Getting suckered into fearing money#
+# Getting suckered into fearing money
 _Work in progress_
 
 <img class="alignnone size-medium wp-image-5323" src="https://brianbyexperience.files.wordpress.com/2015/08/christian-freedom-addtnl-info.png?w=300" alt="christian-freedom-addtnl-Info" width="300" height="50" />
