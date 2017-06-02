@@ -1,4 +1,4 @@
-#Chapter 9: A closing note to Christians, Other Theists, Atheist and Agnostics.
+ #Chapter 9: A closing note to Christians, Other Theists, Atheist and Agnostics.
 
 If there is no god, then everything is permissible. NAP (Non-Aggression Principle) is a fantastic philosophy, but how many people violate it regularly in their daily life? How many even realize that they just violated it? How many actively go out of their way to not violate NAP, but still do? How many violate it purposely, and lead others to violate it. I’m telling you now, that this is all just vanity. You do what is in your heart. You speak what is in your heart. If you speak words that will never last beyond this world, then you are just speaking into vanity for vanity sake. Should we be rude then, and disregard NAP? No, we should learn it, and see how it directly applies to our life in Christ Jesus.
 
@@ -9,7 +9,8 @@ But this isn’t the only reason, it is also because if you are distracted by fa
 
 Did you ever wonder why Christians are so diverse more so than many other beliefs? I don’t mean in attitude and disposition only, but in the knowledge of the laws, the freedoms, the stance in Christ, our position in the presence of God, the belief in the scriptures themselves. Here is the secret. “The thief comes not but to steal kill and destroy” **John 10:10**. Who is this thief? He is the opposite of our lord, Jesus who said:
 
-###John 10 NASB
+### John 10 NASB
+
 >7 So Jesus said to them again, “Truly, truly, I say to you, I am the door of the sheep. 8 All who came before Me are thieves and robbers, but the sheep did not hear them. 9 I am the door; if anyone enters through Me, he will be saved, and will go in and out and find pasture. 10 The thief comes only to steal and kill and destroy; I came that they may have life, and have it abundantly.
 >
 >11 “I am the good shepherd; the good shepherd lays down His life for the sheep. 12 He who is a hired hand, and not a shepherd, who is not the owner of the sheep, sees the wolf coming, and leaves the sheep and flees, and the wolf snatches them and scatters them. 13 He flees because he is a hired hand and is not concerned about the sheep. 14 I am the good shepherd, and I know My own and My own know Me, 15 even as the Father knows Me and I know the Father; and I lay down My life for the sheep. 16 I have other sheep, which are not of this fold; I must bring them also, and they will hear My voice; and they will become one flock with one shepherd. 17 For this reason the Father loves Me, because I lay down My life so that I may take it again. 18 No one has taken it away from Me, but I lay it down on My own initiative. I have authority to lay it down, and I have authority to take it up again. This commandment I received from My Father.”
@@ -25,7 +26,8 @@ But do I expect you, who are not Christian to minister Christ to those who claim
 I am told that Christianity is another chain, another bondage. However the Mosaic Law was A Prophesy to prove that we cannot be the savior, nor perfect by the flesh. Now all transgressions of the law were worthy of death, with this in mind, the core of the law was revealed when the people challenged Jesus when they wanted to stone the prostitute Mary. And Jesus replied, “The one of you with no sin, throw the first stone”. But let’s go further, Jesus is called the Lamb of God, the sacrifice for all of our sins. Even further, the lambs of old were the imperfect sacrifices for the sins of their time. All of this was a fore shadowing of the things to come. Calvary was what came. The perfect lamb became the perfect sacrifice. The reward, liberty from sin. Liberty from the eternal punishment from death. The Freedom from condemnation and with it the Freedom to come onto God. How gracious that we just sinned, but God saw so much in our future with Him, that He gave us everything just so that we can live in it.
 
 I hope that you now see why I wrote this chapter to include non-Christians. I cannot claim that everyone who reads this is going to become a Christian, but I can claim that my heart is to make sure that if you read this, you will understand my heart and the heart of my God, so that when you are challenged by hard hearted Christians, you may give them the labors of my love in Christ Jesus. Let the love of God warm their hearts over, that they also may come to know Him. Let God’s words be your staff, not the philosophy of those who they may not recognize. If they still turn from God, then they are judged according to His standard. That will be enough.
-##A Non-Apology
+
+## A Non-Apology
 
 If you found this to be an evangelical book that is going to happen every time I speak Christ, but the goal of this was still to just liberate you, the faithful in Christ from the government, and all organizations who would violate NAP, including churches who don’t preach the grace message.
 
