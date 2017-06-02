@@ -1,4 +1,4 @@
- #Chapter 9: A closing note to Christians, Other Theists, Atheist and Agnostics.
+# Chapter 9: A closing note to Christians, Other Theists, Atheist and Agnostics.
 
 If there is no god, then everything is permissible. NAP (Non-Aggression Principle) is a fantastic philosophy, but how many people violate it regularly in their daily life? How many even realize that they just violated it? How many actively go out of their way to not violate NAP, but still do? How many violate it purposely, and lead others to violate it. I’m telling you now, that this is all just vanity. You do what is in your heart. You speak what is in your heart. If you speak words that will never last beyond this world, then you are just speaking into vanity for vanity sake. Should we be rude then, and disregard NAP? No, we should learn it, and see how it directly applies to our life in Christ Jesus.
 
