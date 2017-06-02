@@ -1,4 +1,4 @@
-#Getting suckered into fearing money#
+# Getting suckered into fearing money#
 _Work in progress_
 
 <img class="alignnone size-medium wp-image-5323" src="https://brianbyexperience.files.wordpress.com/2015/08/christian-freedom-addtnl-info.png?w=300" alt="christian-freedom-addtnl-Info" width="300" height="50" />
@@ -7,7 +7,7 @@ Fear is the opposite of trust. When you fear the things of this world, you are n
 
 I had gotten suckered into fearing money lately. It wouldn't be there. I would have no more coming in. I wouldn't have enough to help others who I am moved to help. Etc.
 
-###Exodus 17:14-16 - God is Savior####
+### Exodus 17:14-16 - God is Savior####
 **Hebrew**
 >**14:** וַיֹּאמֶר יְהוָה אֶל־מֹשֶׁה כְּתֹב זֹאת זִכָּרֹון בַּסֵּפֶר וְשִׂים בְּאָזְנֵי יְהֹושֻׁעַ כִּֽי־מָחֹה אֶמְחֶה אֶת־זֵכֶר עֲמָלֵק מִתַּחַת הַשָּׁמָֽיִם׃<br/> 
 >**15:** וַיִּבֶן מֹשֶׁה מִזְבֵּחַ וַיִּקְרָא שְׁמֹו יְהוָה נִסִּֽי׃ <br/>
@@ -31,7 +31,7 @@ Since God is fighting the dark forces from the shadows of the high things of thi
 
 >"Who are you that have rejected me, and jumped infront of my spear, to fight a war that you cannot win?", a fictional illustration of a revelation from God.
 
-###Genesis 48:15 - God is Shepherd###
+### Genesis 48:15 - God is Shepherd###
 **Hebrew**
 >וַיִּבֶן מֹשֶׁה מִזְבֵּחַ וַיִּקְרָא שְׁמֹו יְהוָה נִסִּֽי׃ 
 
@@ -46,7 +46,7 @@ Since God is fighting the dark forces from the shadows of the high things of thi
 
 Abraham and Isaac walked with God. Joseph called God his shepherd. This means that Joseph knew that God was going to take care of him.
 
-###Psalms 23:1-6 - We wont lack.###
+### Psalms 23:1-6 - We wont lack.###
 
 **NASB Translation**
 >**1** The LORD is my shepherd,<br/>
@@ -70,8 +70,8 @@ Looking at psalms, you see that God takes care of our חָסֵר (lack), so we d
 
 In the same chapter he takes care our path of righteousness. He guards us in the path of darkness. He prepares his table for us, even in the presence of our enemies. He makes sure that we dwell int he house of the Lord forever.
 
-##Why am I lacking?##
-###Jeremiah 2:11-13###
+## Why am I lacking?##
+### Jeremiah 2:11-13###
 **NASB**
 > **11** “Has a nation changed gods<br/>
 When they were not gods?<br/>
