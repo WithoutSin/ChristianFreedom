@@ -14,7 +14,7 @@ _The whole book is a work in progress._
 10. Chapter 9 - [A closing note to Christians, Other Theists, Atheist and Agnostics.](Books/ChristianFreedomByBrianWebb/Chapter9–AClosingNoteToChristiansOtherTheistsAtheistAndAgnostics.md)
 11. Chapter 10 - What now? The meaning of life, the universe, and everything. _Work in progress_
 
-## supplemental Information
+## Supplemental Information
 ### Work in Progress
  1. [Getting Suckered Into Fearing Money](Docs/GettingSuckeredIntoFearingMoney.md)
  2. [Distances Traveled On The Wrong Paths](Docs/DistancesTraveledOnTheWrongPaths.md)
