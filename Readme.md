@@ -1,3 +1,4 @@
+
 #Christian Freedom! and related materials
 ## Christian Freedom! 
 _The whole book is a work in progress._
@@ -19,21 +20,22 @@ _The whole book is a work in progress._
  2. [Distances Traveled On The Wrong Paths](Docs/DistancesTraveledOnTheWrongPaths.md) _Work in progress_
  3. [Not Seeing The Violations Of Nonaggression Against God's People](Docs/NotSeeingTheViolationsOfNonaggressionAgainstGodsPeople.md) _Work In Progress_
  4. [Does God need a starship?](Docs/DoesGodneedastarship.md) _Work In Progress_
- 5. Putting on Christ Jesus so that you can take the world off
- 6. Turning to the fountain of living waters
- 7. The renewed mind: Knowing what is good
- 8. Walking the book of Romans
- 9. Shedding fear
- 10. Living your new life in Christ
- 11. Marriage and the state, vs Marriage and Christ
- 12. Christ vision
- 13. The one body, Husband and Wife
- 14. Grooming your children to think, while they get to learn Christ
- 15. The work ethic of a sound minded Christian
- 16. Why the Apostle Paul was so hard to understand 2000 years ago, and why we are still having these problems
- 17. Circumcision: What was of the flesh, is now of the heart
- 18. Why all the water, a reality of the water baptism
- 19. Meditation: Why it was so important in the bible
+ 5. Putting on Christ Jesus so that you can take the world off _Yet to be posted_
+ 6. Turning to the fountain of living waters _Yet to be posted_
+ 7. The renewed mind: Knowing what is good _Yet to be posted_
+ 8. Walking the book of Romans _Yet to be posted_
+ 9. Shedding fear _Yet to be posted_
+ 10. Living your new life in Christ _Yet to be posted_
+ 11. Marriage and the state, vs Marriage and Christ _Yet to be posted_
+ 12. Christ vision _Yet to be posted_
+ 13. The one body, Husband and Wife _Yet to be posted_
+ 14. Grooming your children to think, while they get to learn Christ _Yet to be posted_
+ 15. The work ethic of a sound minded Christian _Yet to be posted_
+ 16. Why the Apostle Paul was so hard to understand 2000 years ago, and why we are still having these problems _Yet to be posted_
+ 17. Circumcision: What was of the flesh, is now of the heart _Yet to be posted_
+ 18. Why all the water, a reality of the water baptism _Yet to be posted_
+ 19. Meditation: Why it was so important in the bible _Yet to be posted_
+ 20. Receiving the Holy Spirit Today. _Yet to be posted_
 
 ##Freedom! by Adam Kokesh <sub>the book that inspired Christian Freedom!</sub>
 NOTE: Still being converted over from raw .txt to .md. Unicode characters are a pain.
