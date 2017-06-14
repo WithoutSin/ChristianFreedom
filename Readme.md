@@ -1,8 +1,7 @@
-
-#Christian Freedom! and related materials
+# Christian Freedom! and related materials
 ## Christian Freedom! 
 _The whole book is a work in progress._
-###Chapters
+### Chapters
 1. [Intro and License](Books/ChristianFreedomByBrianWebb/IntroAndLicense.md)
 2. Chapter 1 -[The Philosophy (Expanded for Christians)](Books/ChristianFreedomByBrianWebb/Chapter1–ThePhilosophy_ExpandedForChristians.md)
 3. Chapter 2 - [Why we are having these challenges today]( Books/ChristianFreedomByBrianWebb/Chapter2–WhyWeAreHavingTheseChallengesToday.md)
@@ -15,11 +14,13 @@ _The whole book is a work in progress._
 10. Chapter 9 - [A closing note to Christians, Other Theists, Atheist and Agnostics.](Books/ChristianFreedomByBrianWebb/Chapter9–AClosingNoteToChristiansOtherTheistsAtheistAndAgnostics.md)
 11. Chapter 10 - What now? The meaning of life, the universe, and everything. _Work in progress_
 
-##supplemental Information
- 1. [Getting Suckered Into Fearing Money](Docs/GettingSuckeredIntoFearingMoney.md) _Work in progress_
- 2. [Distances Traveled On The Wrong Paths](Docs/DistancesTraveledOnTheWrongPaths.md) _Work in progress_
- 3. [Not Seeing The Violations Of Nonaggression Against God's People](Docs/NotSeeingTheViolationsOfNonaggressionAgainstGodsPeople.md) _Work In Progress_
- 4. [Does God need a starship?](Docs/DoesGodneedastarship.md) _Work In Progress_
+## supplemental Information
+### Work in Progress
+ 1. [Getting Suckered Into Fearing Money](Docs/GettingSuckeredIntoFearingMoney.md)
+ 2. [Distances Traveled On The Wrong Paths](Docs/DistancesTraveledOnTheWrongPaths.md)
+ 3. [Not Seeing The Violations Of Nonaggression Against God's People](Docs/NotSeeingTheViolationsOfNonaggressionAgainstGodsPeople.md) 
+ 4. [Does God need a starship?](Docs/DoesGodneedastarship.md)
+### Work yet to be posted
  5. Putting on Christ Jesus so that you can take the world off _Yet to be posted_
  6. Turning to the fountain of living waters _Yet to be posted_
  7. The renewed mind: Knowing what is good _Yet to be posted_
@@ -37,7 +38,7 @@ _The whole book is a work in progress._
  19. Meditation: Why it was so important in the bible _Yet to be posted_
  20. Receiving the Holy Spirit Today. _Yet to be posted_
 
-##Freedom! by Adam Kokesh <sub>the book that inspired Christian Freedom!</sub>
+## Freedom! by Adam Kokesh <sub>the book that inspired Christian Freedom!</sub>
 NOTE: Still being converted over from raw .txt to .md. Unicode characters are a pain.
 
 00. [Introduction](Books/Freedom-by-Adam-Kokesh/Freedom!%20by%20Adam%20Kokesh%20Introduction.md)
@@ -53,8 +54,8 @@ NOTE: Still being converted over from raw .txt to .md. Unicode characters are a 
 10. Chapter 10: [The Future of Freedom](Books/Freedom-by-Adam-Kokesh/Freedom!%20by%20Adam%20Kokesh%20Ch10.md) 
 11. [Afterword](Books/Freedom-by-Adam-Kokesh/Freedom!%20by%20Adam%20Kokesh%20Afterword.md) 
 
-#Other links
+# Other links
 * [FAQ](faq.md) 
 
-#License
+# License
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Christian Freedom</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="http://withoutsin.org" property="cc:attributionName" rel="cc:attributionURL">Brian Webb</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.<br />Based on a work at <a xmlns:dct="http://purl.org/dc/terms/" href="https://github.com/WithoutSin/ChristianFreedom" rel="dct:source">https://github.com/WithoutSin/ChristianFreedom</a>.
