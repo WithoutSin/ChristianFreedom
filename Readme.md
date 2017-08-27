@@ -1,3 +1,5 @@
+<center><img src="Images/ChristianFreedomPage.png" /></center>
+
 # Christian Freedom! and related materials
 Support Site: [We're on Facebook as ChristianFreedomBook](https://www.facebook.com/ChristianFreedomBook)
 ## Christian Freedom! 
