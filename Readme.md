@@ -1,4 +1,5 @@
 # Christian Freedom! and related materials
+https://www.facebook.com/ChristianFreedomBook
 ## Christian Freedom! 
 _The whole book is a work in progress._
 ### Chapters
