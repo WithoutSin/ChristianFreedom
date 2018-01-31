@@ -1,6 +1,6 @@
 * [Back to Readme](Readme.md)
-#FAQ
-##Why Github?
+# FAQ
+## Why Github?
 Yes, I do plan on adding code too. I chose this venue to hold everything, since everthing about this is to be open source, including the teachings. 
 
 1. Website:
@@ -13,8 +13,8 @@ Yes, I do plan on adding code too. I chose this venue to hold everything, since 
     2. No teacher speaks every language. Do you know how many dialects of English there are? Just in the US there are at least 5 major regional dialects. Every document must be available for translation into the local parlance for the people that the document is being distributed to.
     3. Other teachings. As people grow in both Freedom! and Christian Freedom!, I want to hear and share more teachings from more people, that they too may grow in Christ, and live with their Father, God almighty, Yahova, Elohim.
 
-##Will there be a final hosting location?
-Yes. I have aquired the domain [WithoutSin.org](http://WithoutSin.org).
+## Will there be a final hosting location?
+Yes. I have aquired the domain [WithoutSin.org](https://WithoutSin.org).
 
 The goal of this site will be to provide in open source, a repository for:
  1. Teachings
