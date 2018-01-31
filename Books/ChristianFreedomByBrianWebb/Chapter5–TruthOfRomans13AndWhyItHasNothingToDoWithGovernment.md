@@ -1,10 +1,10 @@
-#Chapter 5: Truth of Romans 13, and why it has nothing to do with Government #
+# Chapter 5: Truth of Romans 13, and why it has nothing to do with Government 
 
-## Let every person be subject to the governing authorities ##
+## Let every person be subject to the governing authorities
 
 Before going into this, please remember that chapter and verse breaks were not in the original word, since the original documents were hand written letters. These breaks were added by men to help break down the document into researchable and consumable sections. However, people make mistakes. So if you look at 13, it starts a bit weird, in that the opening statement is a command, but we just saw that the law cannot make flesh righteous, so why is there a command? Let’s look back to chapter 11 and 12, you see that the top verses in 12 seem to fit and summarize 11, so too do the next verses open and begin 12:
 
-###Romans 12 NASB###
+### Romans 12 NASB
 >3 - 12 For through the grace given to me I say to everyone among you not to think more highly of himself than he ought to think; but to think so as to have sound judgment, as God has allotted to each a measure of faith. For just as we have many members in one body and all the members do not have the same function, so we, who are many, are one body in Christ, and individually members one of another. Since we have gifts that differ according to the grace given to us, each of us is to exercise them accordingly: if prophecy, according to the proportion of his faith; if service, in his serving; or he who teaches, in his teaching; or he who exhorts, in his exhortation; he who gives, with liberality; he who leads, with diligence; he who shows mercy, with cheerfulness.
 > 
 > Let love be without hypocrisy. Abhor what is evil; cling to what is good. Be devoted to one another in brotherly love; give preference to one another in honor; not lagging behind in diligence, fervent in spirit, serving the Lord; rejoicing in hope, persevering in tribulation, devoted to prayer, contributing to the needs of the saints, practicing hospitality.
@@ -13,7 +13,7 @@ Before going into this, please remember that chapter and verse breaks were not i
 
 Heap burning coals is not an expression of destroying a person, but wrapping the hot stones from a fire into a turban, or towel, and placing it on the head of a traveler who is going into, or coming in from a cold night. If you warm his head, he feels warmer all over. With this in mind, read the next chapter and the first seven verses.
 
-###Romans 13 ESV###
+### Romans 13 ESV
 > 1-7: Let every person be subject to the governing authorities. For there is no authority except from God, and those that exist have been instituted by God. Therefore whoever resists the authorities resists what God has appointed, and those who resist will incur judgment. For rulers are not a terror to good conduct, but to bad. Would you have no fear of the one who is in authority? Then do what is good, and you will receive his approval, for he is God’s servant for your good. But if you do wrong, be afraid, for he does not bear the sword in vain. For he is the servant of God, an avenger who carries out God’s wrath on the wrongdoer. Therefore one must be in subjection, not only to avoid God’s wrath but also for the sake of conscience.
  
 If there is no authority but from God, that means all other authorities must not be from God. What man has the power of God? What man can create life from dust? What man can provide eternal righteousness? None, excluding Christ Jesus. This authority is not real authority, it is man, and why not be answerable to your grace, liberty and Freedom in Christ before them, they may decide to join you.
@@ -22,16 +22,16 @@ The word authority here does not mean political people, or government, but when 
 
 Did the Apostle Paul obey government, or God? Did Jesus Christ obey government of God? I see a trend here. Why else would Paul and Jesus have been in such hot water with government as documented in the book of Acts.
 
-##Be subject for the Lord’s sake to every human institution##
-###1 Peter 2 ESV###
+## Be subject for the Lord’s sake to every human institution
+### 1 Peter 2 ESV
 >13-17: Be subject for the Lord’s sake to every human institution, whether it be to the emperor as supreme, or to governors as sent by him to punish those who do evil and to praise those who do good. For this is the will of God, that by doing good you should put to silence the ignorance of foolish people. Live as people who are free, not using your freedom as a cover-up for evil, but living as servants of God. Honor everyone. Love the brotherhood. Fear God. Honor the emperor.
 
 *“Be subject for”*, based on the examples given, I have to assume that this is really *“be subject for judgment for”*, this could also be referring to *“be answerable for”*. Again, the apostles obeyed God, and were held accountable for their actions. The last two sentences here *“Fear God”* and *“Honor the emperor”* are very decisive.
 
 The scriptures are clear as to our living status even, *“Live as people who are free…”*. We are not to live as slaves, but as free. How can you live free if you are living as a slave? Trust me, the scriptures cover that too. The scriptures do cover that a slave should serve his master *as unto the lord, so that it may be well with him*. I have to admit, this still troubles me today, but I will also note that the reference to serve an employer as one would the lord, or one another as one would to the lord, are also prevalent. So this cannot be live in opposition to the knowledge of God, blindly following every evil deed and order, otherwise God would be telling us to live good except when told to live evil.
 
-##Give Caesar what is Caesar’s, because we don’t need it##
-###Romans 13 ESV###
+## Give Caesar what is Caesar’s, because we don’t need it
+### Romans 13 ESV
 >7 Pay to all what is owed to them: taxes to whom taxes are owed, revenue to whom revenue is owed, respect to whom respect is owed, honor to whom honor is owed.
 
 Not unlike our predecessors we do not have an emperor or a king, but we do have an authority that by declaration of men claims greater authority over all men. They are claiming the authority of God for themselves. As such, they assume that the wages you earn are theirs for taxes owed and rightfully claimed by them as the government. As you look at chapter 1, you see that we shouldn’t even care. If God is our sufficiency, then we don’t need their filthy lucre, we don’t need to exchange their money for services. We can work as a body of Christ, building and helping one another as we see fit as individuals, working in this community we call the Body of Christ. This is just another aspect of that body, which is just another benefit of being the body of Christ.
