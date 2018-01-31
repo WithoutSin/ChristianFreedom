@@ -1,4 +1,3 @@
-
 <center><img src="Images/ChristianFreedomPage.png" /></center>
 
 # Christian Freedom! and related materials
@@ -26,22 +25,22 @@ _The whole book is a work in progress._
  4. [Does God need a starship?](Docs/DoesGodneedastarship.md)
  5. [Rotting life or Eternal life](Docs/RottingLifeOrEternalLife.md)
 ### Work yet to be posted
- 5. Putting on Christ Jesus so that you can take the world off
- 6. Turning to the fountain of living waters
- 7. The renewed mind: Knowing what is good
- 8. Walking the book of Romans
- 9. Shedding fear
- 10. Living your new life in Christ
- 11. Marriage and the state, vs Marriage and Christ
- 12. Christ vision
- 13. The one body, Husband and Wife
- 14. Grooming your children to think, while they get to learn Christ
- 15. The work ethic of a sound minded Christian
- 16. Why the Apostle Paul was so hard to understand 2000 years ago, and why we are still having these problems
- 17. Circumcision: What was of the flesh, is now of the heart
- 18. Why all the water, a reality of the water baptism
- 19. Meditation: Why it was so important in the bible
- 20. Receiving the Holy Spirit Today.
+ 6. Putting on Christ Jesus so that you can take the world off
+ 7. Turning to the fountain of living waters
+ 8. The renewed mind: Knowing what is good
+ 9. Walking the book of Romans
+ 10. Shedding fear
+ 11. Living your new life in Christ
+ 12. Marriage and the state, vs Marriage and Christ
+ 13. Christ vision
+ 14. The one body, Husband and Wife
+ 15. Grooming your children to think, while they get to learn Christ
+ 16. The work ethic of a sound minded Christian
+ 17. Why the Apostle Paul was so hard to understand 2000 years ago, and why we are still having these problems
+ 18 Circumcision: What was of the flesh, is now of the heart
+ 19 Why all the water, a reality of the water baptism
+ 20Meditation: Why it was so important in the bible
+ 21 Receiving the Holy Spirit Today.
 
 ## Freedom! by Adam Kokesh <sub>the book that inspired Christian Freedom!</sub>
 NOTE: Still being converted over from raw .txt to .md. Unicode characters are a pain.
