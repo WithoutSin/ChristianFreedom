@@ -249,32 +249,13 @@ Claims to be Jesus Christ returned, which makes him not “God” but the “wor
 
 ### Church Entities
 
-It isn’t limited to government, but also church. Did you see those people? Every man who claims a title that isn’t written is setting himself up for worship.
-Even the Christ Child, Jesus
-#### Jesus: ~4 BC – ~33 AD
+You know you have a problem when the church has to release a document calling out the diefication of a Pope blasphemy. http://romancatholicbeliefs.org/pope-francis/the-deification-of-man-pope-francis-and-the-blasphemy-of-being-called-holy-father/
 
-(Included due to Wikipedia, and I added some notes. Don’t get frustrated until you read to the bottom of the notes. I’ll try to make myself clear as I go.)
+>There is only one person who deserves the title of “Holy Father” and he is sitting on a throne in Heaven, not on a throne over in the Vatican.
 
-In Romans 1 Paul the Apostle described Jesus as being the Son of God and the Lord. Bishop Athanasius of Alexandria wrote in defense of the divinity of the Holy Spirit. Orthodox Christianity adopted his teachings at the First Council of Nicaea in a Synod assembly of bishops in 325 AD called by the Roman emperor Constantine the Great.
+>>Peter is often referred to as the “first Pope” of the Roman Catholic church, but when you study the scriptures you will find that Peter was just another Christian who refused and disdained the praise which came from man.
 
-Over time, with the composition and establishment of the Nicene and Athanasian creeds, Jesus was declared God Incarnate. He is now considered to be divine in most Christian views of Jesus; God the Son in Trinitarian Christianity.
-
-Further information: History of early Christianity, Pauline Christianity, Constantine the Great and Christianity and Christology.
-
-I have a personal problem with this declaration. God of the old and New Testament always says I am God, or I am your God, but Jesus said “When you see me, you see my Father”. Also God said that we cannot see Him face to face, but men saw Jesus face to face. Lastly John 1:1 was a very romantic way of saying that God knew what was going to be in His law and what His son was going to be like before the foundation of the world, because he set them according to His own heart.
-
-##### John 1
-
->1. In the beginning was the Word, and the Word was with God, and the Word was God. 2. The same was in the beginning with God. 3. All things were made by him; and without him was not anything made that was made. 4. In him was life; and the life was the light of men. 5. And the light shineth in darkness; and the darkness comprehended it not.
-
-Keep note of this, we will look at verse 5 again in a moment.
-
-Am I denying the Deification of Christ, or that God set the Lord Jesus as the Head of the body of Christ, or that the nature of the creation of Christ Jesus wasn’t divine? No. I am saying that in the scriptures, there is no word trinity, and the older translations of God, the Father, the Son, and the Holy Ghost are not written the way they are in modern form starting with the lack of punctuation, chapters, and verses. I am saying that this shouldn’t be handled in this book, but I wanted you to have enough information to be enticed into doing your own study into the scriptures yourself, and not just take another person’s word for it. Study to show yourself approved, a workman, rightly dividing the word of truth 2 Timothy 2:15. Since we know that the scriptures are filled with metaphors, how much of this is metaphor and how much is literal? How much is an orientalism (a statement of speech, “This ring is as big as a house”, vs literal)? This is why I refer you to 2nd Timothy. If you don’t read it yourself, then how do you know what is written? How do you know that you are being told the truth?
-
-I will say I won’t call Christ Jesus anything other than what is written, for the same reason I don’t call our current president Messiah or King, except in ridicule, and I won’t ridicule the first of many, the head of the body of Christ, the Lamb of God, the Christ Jesus.
-
-Now let’s look at verse 5, the darkness doesn’t comprehend that light. This is why we are even talking about this. When you walk by the government you are walking by the darkness of this world. If you are walking by the light of others teaching, then you are walking also in their shadows of their mistakes. But if you come to God directly, then you allow Him to provide your light. I can only show you what is reflected from me. You now have the knowledge to come to him directly, and learn from both what he has written, and what he reveals to you directly. Just remember to test all new knowledge, all new wisdom, against the knowledge of Christ in the scriptures. This is how you know that the wisdom and knowledge is from God.
-Why review this
+>If Peter were to walk through St Peter’s Square, and visit the Vatican in Rome he would be appalled by all of the gaudy idolatry and man-made traditions of the Catholic church.
 
 ## Government is the epitome of an evil false religion with an evil god. It is idolatry.
 
@@ -307,14 +288,14 @@ Something to note: This topic is big enough in Wikipedia that it took two entrie
 
 * [http://en.wikipedia.org/wiki/Pearl_Harbor_advance-knowledge_conspiracy_theory](http://en.wikipedia.org/wiki/Pearl_Harbor_advance-knowledge_conspiracy_theory)
 
-###Here are some other supporting links:
+### Here are some other supporting links:
 
 * [http://www.independent.org/newsroom/article.asp?id=1930](http://www.independent.org/newsroom/article.asp?id=1930)
 * [http://en.wikipedia.org/wiki/McCollum_memo](http://en.wikipedia.org/wiki/McCollum_memo)
 * [http://www.rationalrevolution.net/war/fdr_provoked_the_japanese_attack.htm](http://www.rationalrevolution.net/war/fdr_provoked_the_japanese_attack.htm)
 
 I will not cover the 911 theories and conspiracies here, they are a side track to the message.
-###Let’s go back about two thousand years.
+### Let’s go back about two thousand years.
 
 There was this man called Jesus, before he was even born the king of the time, Herod, decided that he didn’t want to lose his throne to this child, and decided to have all first born males killed.
 
