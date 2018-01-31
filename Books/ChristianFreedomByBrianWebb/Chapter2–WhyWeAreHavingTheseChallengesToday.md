@@ -1,4 +1,4 @@
-#Chapter 2 – Why we are having these challenges today
+# Chapter 2 – Why we are having these challenges today
 **1 Samuel 8 King James Version (KJV)**
 >1 And it came to pass, when Samuel was old, that he made his sons judges over Israel.<br />
 2 Now the name of his firstborn was Joel; and the name of his second, Abiah: they were judges in Beersheba.<br />
