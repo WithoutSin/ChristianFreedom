@@ -1,3 +1,4 @@
+
 <center><img src="Images/ChristianFreedomPage.png" /></center>
 
 # Christian Freedom! and related materials
@@ -23,6 +24,7 @@ _The whole book is a work in progress._
  2. [Distances Traveled On The Wrong Paths](Docs/DistancesTraveledOnTheWrongPaths.md)
  3. [Not Seeing The Violations Of Nonaggression Against God's People](Docs/NotSeeingTheViolationsOfNonaggressionAgainstGodsPeople.md) 
  4. [Does God need a starship?](Docs/DoesGodneedastarship.md)
+ 5. [Rotting life or Eternal life](Docs/RottingLifeOrEternalLife.md)
 ### Work yet to be posted
  5. Putting on Christ Jesus so that you can take the world off
  6. Turning to the fountain of living waters
