@@ -1,4 +1,4 @@
-##Chapter 1 – The Philosophy (Expanded for Christians)
+# Chapter 1 – The Philosophy (Expanded for Christians)
 
 The following can be found in the publication Freedom! by Adam Kokesh (thefreedomeline.com)
 
