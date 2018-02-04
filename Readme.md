@@ -24,8 +24,8 @@ _The whole book is a work in progress._
  3. [Not Seeing The Violations Of Nonaggression Against God's People](Docs/NotSeeingTheViolationsOfNonaggressionAgainstGodsPeople.md) 
  4. [Does God need a starship?](Docs/DoesGodneedastarship.md)
  5. [Rotting life or Eternal life](Docs/RottingLifeOrEternalLife.md)
+ 6. [Putting on Christ Jesus so that you can take the world off](Docs/PuttingOnChristJesusSoThatYouCanTakeTheWorldOff.md)
 ### Work yet to be posted
- 6. Putting on Christ Jesus so that you can take the world off
  7. Turning to the fountain of living waters
  8. The renewed mind: Knowing what is good
  9. Walking the book of Romans
