@@ -1,6 +1,6 @@
-##2. A Brief History of Power
+# 2. A Brief History of Power
 
-###1. Evolution of the Government Racket
+## 1. Evolution of the Government Racket
 
 Once humans could generate more than needed to sustain themselves, it became worthwhile to exploit them. To understand the origins of government and interpersonal violence, we need to go all the way back to the state of nature, or perhaps even earlier to our biological origin. We have always sought to meet our needs by controlling the world around us, including other people. Most human relations have been cooperative and nonviolent, but the desire to control others by force evolved from the first temptation to steal to the modern governments we know today.
 
@@ -24,7 +24,7 @@ Because we are pragmatic creatures who cannot disagree with the existing social 
 
 As society evolved, we retained our primal instincts. We are a communal species, not dependent on each other, but dependent on cooperation to maintain our standard of living and to enhance our chances of survival and reproduction. Because cooperation is superior to coercion, we have continuously developed better ways of organizing society to foster cooperation. The era of modern governments represents an important step in the process, but it is by no means the final one. The adoption of a new paradigm based on freedom will soon render all forms of organized exploitation laughably obsolete.
 
-###2. Patriotism
+## 2. Patriotism
 
 People have always derived a sense of identity from affiliation with groups. We compare ourselves to lesser groups to boost our sense of self-esteem. This inherent feature of the human psyche has been widely exploited to manipulate societies into tolerating oppression. Even if we accept the creation of strong group identities as a service, governments have used monopoly privileges to charge far more than their services are worth. In the case of modern governments, the price of strong national identities has been widespread war, theft, and manipulation.
 
@@ -38,7 +38,7 @@ Insecurity and a tendency to seek identity as part of a group can lead people to
 
 Governments rely on a sense of patriotism in their victims to get them to go along with policies not in their best interest. They need us to believe we are sacrificing for the common good when we are really aiding our victimizers. They need us to go along as part of the herd. They need us to accept the proclaimed selflessness of politicians acting only out of love for the artificial collective. They need to ensure that not too many of us victims are emotionally healthy thinkers who demand self-government and are secure in our identities as free, beautiful, independent people. Patriotism is proof that a patriot isn't free.
 
-###3. Propaganda
+## 3. Propaganda
 	
 The great government lie is that it exists for the good of its victims. To obscure the truth, governments go to great lengths with propaganda intended to change the way we think and thus how we act. Propaganda spreads misinformation that can affect our decisions, deflect blame from governments, encourage infighting, promote dislike of outsiders, and create a sense of patriotism, or identification with the country or even the government itself. The greatest measure of what governments are capable of with propaganda is how much they have convinced us to identify with them so that anyone who challenges their power is seen as an enemy of the people. Fortunately, the same technology that makes propaganda possible today has finally caught up in terms of empowering us to question government, and we may have already passed the high point of the effectiveness of propaganda.
 
@@ -52,7 +52,7 @@ Staged conversations between preselected talking heads are a common tactic of pr
 
 While propaganda has had a great multiplier effect on the effectiveness of the racket, (explaining its widespread use) its effectiveness is on the decline. While publication technologies once empowered governments disproportionately, we now have such an abundance of information at our fingertips that it is much more difficult to lie to us. As long as there are governments, there will be propaganda. As long as propaganda is effective, governments will always be possible. But because we are capable of questioning propaganda like never before, it will eventually be irrelevant. 
 
-###4. Government VS Technology
+## 4. Government VS Technology
 
 In many ways, the arc of government has followed the arc of technology, but their relationship is much more complicated. Governments are often empowered by technology in ways the public is not, sometimes secretly. Technology has allowed governments to be far more destructive than they would be without it. In many ways, technology is now empowering us to challenge government power. As long as we are susceptible to the racket, available technology will determine the nature of the oppression, but eventually technology will empower the general population to demand self-government and render the psychological roots of statism irrelevant.
 
