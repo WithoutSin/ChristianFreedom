@@ -1,4 +1,4 @@
-##Introduction
+# Introduction
 
 Right now is an amazing time to be alive. The human experience is as rich and delightful as ever and every day carries the promise of a better world. Not everyone sees it that way, but on the whole, *Team People* is doing very well. We have come a long way and that's something worth taking a step back to appreciate. But the current path is not sustainable. Governments are transferring more wealth than ever from the poor to the rich. We are rapidly approaching a point where we must adapt or perish. The short view of history tempts pessimism. We might see the recent steps backward as the triumph of evil over good, or at least a turn toward mutual annihilation. They are merely the steps backward in a long progression of one step backward and two steps forward. 
 
