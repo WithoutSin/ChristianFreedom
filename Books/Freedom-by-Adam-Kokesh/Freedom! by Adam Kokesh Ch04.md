@@ -1,6 +1,6 @@
-##4. Personal Security
+# 4. Personal Security
 
-###1. Life is Fragile
+## 1. Life is Fragile
 
 The most horrific act of violence a person can commit against another can be very easy. To take someone's life is not especially difficult. In a world dominated by professional killers and violent fantasies, it makes sense that most people have an exaggerated sense of how difficult it is to kill someone and how invulnerable they are. Rarely do we actually consider how easy it would be to kill someone because the thought of ending another person's life is so repulsive.
 
@@ -14,7 +14,7 @@ Turning to government for protection from thieves says, "My neighbor might steal
 
 Life is risky. Risk leads to fear. Fear makes us vulnerable. Acceptance of the riskiness of life makes it possible to be brave enough to question those who would promote fear. When we try to deny the riskiness of life, either in our minds or through government policy, we only make it worse. Rather than living in fear or in resistance, simply by embracing the cooperative nature of life, we can protect ourselves from the very real threat of a society devoid of trust.
 
-###2. Justice
+## 2. Justice
 
 We all want to be treated fairly, and we all have a sense of what is right. When justice is used as a mere rallying cry, it can be severely distorted. When justice is founded on a concrete set of moral principles, it is a guiding light for resolving conflicts. Governments claim a monopoly on the essential services around justice (dispute resolution, incarceration, public safety) yet in these most important social functions, they always abuse that power. They provide some legitimate functions in these areas, but only as necessary to maintain the illusion of providing an actual service. Even a brief examination of government justice services reveals that governments have no moral principles.
 
@@ -28,7 +28,7 @@ Judging an individual's behavior to be wrong does not give you the right to puni
 
 Justice is the application of ethics. A society's practice of justice is a measure of its commitment to moral principles. Society's punishment of nonviolent behavior is a measure of its abandonment of freedom. When we turn to governments for justice, we are turning to institutions based on violating rights in order to protect them. A protection racket cannot claim to have a moral foundation. Justice is far too important to be trusted to government. In many ways, we have become dependent on government, so in the transition to a free society, many peaceful systems of justice will first resemble current government models and meet current expectations. However, with the innovation made possible in the absence of coercion, those expectations will soon be exceeded with far more righteous and efficient systems of justice.
 
-###3. The Police State
+## 3. The Police State
 	
 Modern governments have entered a self-destruct cycle. Policies are enacted on behalf of special interests. Governments convince enough of us that the policies are well-intended. We figure out that a particular policy is intended to take advantage of us. We get upset and resist. Rather than give in to the pressure, politicians (and their sponsors) find it more profitable to minimize the impact of the resistance while they create a new policy to distract us. This creates a seemingly endless cycle of creation and suppression of discontent. Old discontent piles up as politicians, special interests, and other criminals respond to very short-term incentives because they are removed from accountability for long-term consequences. As tension grows, governments must increase direct control over their citizens. Effective governments have carefully cultivated enforcement classes full of police who will not question orders. A government of runaway enforcement, or a police state, is a predictable result of corruption.
 
@@ -48,7 +48,7 @@ In some places, it's illegal to record police, but in some places where it's tec
 
 While the term "police state" may apply to varying degrees, and some government apologists will always declare the amount of control to be insignificant, any organized violent control is just as wrong as a "total police state." Subjecting people to systematic violence traumatizes them and helps keep them submissive. Do not give in! There are many important ways to fight the police state to improve our communities, but until we defeat statism, it will always be there, and even the slightest degree of a police state is too much.
 
-###4. Courts
+## 4. Courts
 
 Dispute resolution is too important to be entrusted to governments. When we accept arbitrary authority from a violent monopoly protection racket, the authority is soon used to make us submit. Then that authority is for sale to the highest bidder and courts are used to get us to go along with all kinds of disastrous policies.
 
@@ -62,7 +62,7 @@ Courts are a critical part of the protection racket because they give government
 
 In a free society, courts would depend on the recipients of their services to fund them, rather than governments. They would be accountable to the people, rather than politicians. They might be bundled with other legitimate protection services. We could pay someone to protect our rights, rather than having a monopoly forced on us based on violating our rights. Increased freedom always results in greater efficiency, but this will be especially dramatic in the area of dispute resolution. No longer will a monopoly service provider abuse its customers with inconveniences that would be intolerable in any other industry. No longer will people with no responsibility for their decisions make important rulings. No longer will people be unaccountable for the great injustice of all the productivity stolen and wasted by false imprisonment. Dispute resolution services, unsurprisingly, will be much better when organized without a violent premise.
 
-###5. Incarceration
+## 5. Incarceration
 
 Locking someone in a cage is never justice. It is only punishment or justified isolation of someone who is a danger to others. Locking someone in a cage for hurting a person does not make the victim whole. Locking someone in a cage for doing something you just don't like makes you the criminal. Sometimes individual acts of incarceration are justified, but modern prison systems contain mostly people whose incarceration itself is a crime. Even for its stated objectives, a punitive prison system is a dangerous and ineffective tool.
 
@@ -72,7 +72,7 @@ If someone who hurt someone goes to jail, or even gets the death penalty, how do
 
 Revenge never serves justice, however tempting it may be. The more we question the assumptions of modern prison systems, the more aware we are of their disastrous effects. This is inspiring a reexamination of our sense of justice and making it clear how governments take advantage of our innate desire for revenge. Dealing with violent, irrational, and criminally insane people is an important function in any society and it will be very exciting to see how cooperative efforts will address these issues, and how much more productive and happy society will be without so much effort invested in keeping people behind bars.
 
-###6. Self-Defense
+## 6. Self-Defense
 
 What makes governments critically unique is the way they use guns. Everything governments demand we do or not do is backed up with, "Or else police with guns will come and lock you in a cage." If we all had guns, and governments didn't have any, this racket wouldn't work. Governments have an interest in keeping us dependent on their protection rackets, but a police officer will never provide better protection than effective self-defense. Because gun control is enforced by violence and often leads to greater overall violence where enforced, it is clearly not about reducing violence. It's about controlling the population.
 
@@ -88,7 +88,7 @@ Gun control is part of a common attitude not limited to the specific technology 
 
 The reason gun control is so dangerous is because it promotes violence. There are a number of ways it does this, but more importantly, it is fundamentally violent because it requires enforcers to violate the rights of peaceful people. Calling victim disarmament laws "gun control" is a weak cover for what politicians are really advocating: only government agents can have guns. Self-defense is a universal human right.
 
-###7. Sexual Assault
+## 7. Sexual Assault
 
 Sexual assault is assault. It is as much a violation of an individual's rights as any other crime. It is a violation of that most valuable property, one's own body, and constitutes a misappropriation through theft, that often leads to serious injuries. The psychological ramifications, as with any trauma, can be as devastating as any physical assault. In a society where individual rights are respected and violators are not tolerated, we will better address the problem of sexual assault, until it is entirely eradicated, as it will and should be.
 
