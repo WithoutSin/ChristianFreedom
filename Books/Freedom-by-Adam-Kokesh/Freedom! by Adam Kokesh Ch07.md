@@ -1,6 +1,6 @@
-##7. Other Destructive Rackets
+# 7. Other Destructive Rackets
 
-###1. Schooling
+## 1. Schooling
 
 Providing the next generation with the skills to survive and thrive is critically important. When governments take over education, young minds suffer. The exploitation of the education racket is particularly vicious because to miseducate or under-educate a child is to cripple their future. Young minds naturally absorb information and seek the skills most essential to their happiness and prosperity. Threatening young people with consequences to ensure obedience stifles free-thinking and teaches the way of government: to accept rule by force.
 
@@ -10,7 +10,7 @@ When governments control education, people become more dependent on institutiona
 
 While government control over schools (whether by regulation or complete takeover) always hinders learning, it is important to see education as a much broader concept. Like a flower growing through a crack in a sidewalk, even someone whose schooling is thoroughly controlled cannot be prevented from flourishing. Especially now, with greater access to the internet, children are capable of educating themselves. In many places, parents are in a continuous revolt against forced education. Most want what is best for their children and seek alternatives like homeschooling, private schools, and various forms of self-guided learning. Parents who care too much to trust their children's minds to government and children who learn more online than from the mental prisons of forced "education" are exploring such alternatives like never before. Young minds absorb information much better by the indulgence of their curiosities and stimulation of their passions than by force.
 
-###2. Medical Care
+## 2. Medical Care
 
 As an essential service that invokes strong emotions, medical care invites government meddling. Modern medicine has made incredible things possible, but many life-saving procedures remain very expensive. In the natural course of new technologies, prices start high and come down over time. Tragically, government regulation in rich countries has kept prices high so many life-saving technologies remain out of reach for people in poor countries. Efficiency is not just about economic productivity in terms of having more stuff. It also means saving lives.
 
@@ -20,7 +20,7 @@ Unfortunately, many insurance corporations end up with the same special privileg
 
 We all want reassurance that the medical care we get is safe. This demand is enough to drive a lot of resources towards safety and consistency of care. Many governments exploit our fear of medical tragedy to take over this essential market function. They require licenses to provide treatment, approval to distribute drugs, and obedience to regulations for all the ways medical care is paid for. When governments require a license, they force people to meet their standards, which often stifles innovation. The standards are often meaningless, but because people trust government, they will accept treatment from anyone as long as they have government approval. That's how most horror stories occur, rather than from people working without a license. Where governments control drug safety, the results are staggering: millions of people have died from government-approved drugs, and millions more have died while life-saving drugs were kept off the market. Government control of the medical industry has the same disastrous effects on prices, availability, safety, and customer satisfaction as in any other industry.
 
-###3. Welfare
+## 3. Welfare
 	
 One of the noblest elements of our nature is our desire to help the less fortunate. As members of the human family, we want to see each other succeed. It hurts any compassionate person to see others suffer. Governments love taking advantage of this and when they have the capacity to steal from everyone and control the conversation with propaganda, it's easy to convince people that they want to steal from the rich to give to the poor. In reality, most government welfare programs steal from the working class to give to the poor in a way that entrenches government so it can continue to steal from everyone to give to the super rich.
 
@@ -32,7 +32,7 @@ The realization that welfare programs are destructive presents another problem: 
 
 Despite so much being taken by governments, most societies still have a great capacity to help the poor. There is nothing wrong with taking money from a government. Money spent on welfare is money that can't be spent on violence. Nonviolent solutions are always more effective than violent ones. When we choose to help the poor, it is far more effective than governments taking our money "to give to the poor." We can build the institutions and culture necessary to elevate the least among us without coercion. We can be compassionate without using force to help those in need.
 
-###4. Prohibition
+## 4. Prohibition
 
 People have used drugs to control their minds for as long as we have known how. We do this for many reasons, from recreational highs, to performance improvement, to increased sociability. In any case, only the owner of the mind in question should decide what goes in it. There is a human tendency to want to control the minds of those around us to ensure that no one in our community is a threat to others or isn't working hard enough to support those around them. Governments take advantage of this with various policies, some of which are intended to make us more productive taxpayers, but all of which serve special interests. Prohibition of any substance is premised on the idea that your body is government property, and you do not have the right to decide what goes in it. Possession is never a crime.
 	
@@ -44,7 +44,7 @@ One assumption of the drug war is that some drugs are illegal because they are d
 	
 To the extent that drug use is a legitimate problem, nothing makes it worse than charging in to point guns at everyone involved. This drives the market underground, creating new problems of violence and addiction. People who can't control their use are less able to get help. It also drives up prices for the addict, encouraging financial destitution. Some will say prohibition is futile because it doesn't achieve its stated objectives, and many governments can't even keep drugs out of prisons. They are missing the point: prohibition works exactly as intended and is a very profitable racket.
 
-###5. Protecting the Environment
+## 5. Protecting the Environment
 
 There are no more precious resources for humanity than those essential to all life on earth. We all have a right to breathe the air, drink the water, take nourishment from the earth, and put to use all manner of natural resources, so long as we do not interfere with anyone else's access to these resources. We are perfectly capable of protecting the environment, while respecting these rights, without resorting to government coercion. Using violence will often produce the opposite of the desired result, and in protecting the environment, using government has resulted in massive pollution, squandering of resources, and the destruction of countless lives.
 	
@@ -62,7 +62,7 @@ Many environmental issues are large and complicated, so most people are eager to
 	
 A free market system will provide for the optimal usage of natural resources and properly value them, from the least to the most precious. Owners make better guardians than renters and governments rob us all of our chance to take a responsible ownership stake in our planet. Through conscious consumerism, or by the usage of ostracism and boycott when necessary, we can all play a role in setting appropriate standards for the use of natural resources. Regardless of our personal views on what resources are important, turning to coercion to protect them will only serve the needs of government sponsors.
 
-###6. Intellectual Property
+## 6. Intellectual Property
 
 There is nothing more valuable than what we produce and hold in our minds. Every new idea is the product of many past innovators. We see further and invent more only because of those who propelled us forward not by hoarding their ideas, but by sharing them. For true creators of ideas, it is extremely arrogant to claim responsibility for new ideas beyond the insignificant contributions we have made to the innovation of all those who have gone before us. But governments all over the world have stepped in to appeal to the egos of intellectuals and artists alike to create the most arrogant racket of all: intellectual property. Preventing people from copying ideas keeps them from improving on them and severely impedes human progress.
 	
