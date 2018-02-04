@@ -1,6 +1,6 @@
-##3. War
+# 3. War
 
-###1. The Greatest Crime Against Freedom
+## 1. The Greatest Crime Against Freedom
 
 If the worst crime that can be committed against an individual is murder, then the worst possible crime is organized, deliberate, self-righteous, mass murder. "War" is just a word that governments use to make mass murder and theft seem acceptable. Only the sickest and most deranged individuals support murder as a matter of policy and only the sickest and most deranged governments engage in war. To get away with it, they have to convince a critical mass of the population to materially support it. It's not too difficult when they are already convinced that murder is acceptable if enough people do it.
 
@@ -10,7 +10,7 @@ The destruction of combat is an affront to freedom and denies us the prosperity 
 
 To make a society support the crazy ideas behind war, governments need to instill an intense sense of collective identity, which is in itself an affront to freedom. The great tragedy of war is the deception behind it. Yes, it's quite tragic when someone is murdered, but it is far more tragic when mass murder is so clearly preventable. War is the height of statism and the greatest crime against freedom. It is only possible because individuals are willing to commit horrific acts when doing a government's bidding. 
 
-###2. Soldiering
+## 2. Soldiering
 
 Once a government has developed a strong sense of national identity and patriotism among its citizens, it is not particularly difficult to convince a large number of them to sign up to defend the collective. This is still true for governments with consistent records of sending people to kill and die in ways that clearly have nothing to do with defense. But being called a soldier does not separate you from responsibility for your actions.
 	
@@ -22,7 +22,7 @@ To be a soldier is to take a stand against your own freedom. It is to endorse th
 	
 Soldiering is sold as fighting for freedom, and governments want us to be grateful for their wars, but just by putting on that uniform, every soldier makes the citizens less free. Being a soldier is a choice. No one can force you to do something immoral. When we see through the propaganda of collectivism, there will be no more militaries. When we hold each other accountable for individual acts of violence, there will be no more war. When we demand our freedom, there will be no more soldiers.
 
-###3. The Motivation for War
+## 3. The Motivation for War
 
 Understanding governments as competing protection rackets makes it possible to understand the reasons for war. Governments give all kinds of noble reasons for starting wars, but they are only as legitimate as any other propaganda. Today, most of them claim they only use military force for defensive purposes, but if all governments only fought defensive wars, militaries wouldn't be necessary! Governments start wars to expand or strengthen their protection rackets.
 
@@ -34,7 +34,7 @@ War gives governments the excuses necessary to do the things they always want to
 
 We might think a protection racket would not want to kill too many of its subjects, if only because of the loss of productivity, but governments don't always behave rationally. They are always seeking more efficient means of exploiting us, but if they have to kill large numbers of people to maintain their oppression of the rest, they will. Sometimes they get carried away and kill so many that some of the oppressors are affected. Sometimes, governments and their beneficiaries truly lose out in the struggles between competing protection rackets, but war is still a very effective tool. Even with the loss of productivity, wars make governments more powerful.
 
-###4. The Isolation of Intervention
+## 4. The Isolation of Intervention
 
 Violence is the greatest obstacle to commerce and cooperation. When governments do not intervene, commerce between countries brings us together. When they make war, it drives us apart. When governments intervene in the affairs of other countries, just as when they intervene in the lives of individuals, productive relationships are displaced by coercive relationships. While the immediate costs of war are often extremely high (in numbers counted as profits by some), the indirect costs are many times that.
 
@@ -44,7 +44,7 @@ While not considered war by some, embargoes and blockades represent widespread t
 
 Because war drives resources from productive uses to destructive ones, it also limits the people of a country at war in their ability to engage in trade with people of other countries. However, the international trade cut off by war, embargoes, or some form of managed trade is far more significant. When an embargo is declared, it says anyone engaging in certain trade will be shot or bombed. As a result of that single threat, thousands of regular daily exchanges essential to the standard of living of millions may be cut off, and countless more potential exchanges might never happen. While the measurable costs of war in lives and resources might be so immense as to be unfathomable, the total costs of war are incalculable.
 
-###5. Foreign Aid
+## 5. Foreign Aid
 
 One of the many ways modern governments pervert the good will of their people is with foreign aid. For citizens who want to vote away their problems and never have to think about them again, electing a politician who "cares about poor people throughout the world" is a nice option, but it doesn't change reality. Foreign aid takes money from the poor in one country through taxation, and gives it to the rich in another country through handouts.
 
@@ -54,7 +54,7 @@ Governments love foreign aid because it allows them to buy off smaller governmen
 
 There are tragedies going on all over the world and many caring people genuinely want to help. When we pool resources, amazing things can happen. Sometimes, even governments accomplish great feats of relief. Unfortunately, foreign aid funded by theft and carried out by people who are unaccountable for the results predictably leads to diversion of funds for personal gain.
 	
-###6. War on Terror
+## 6. War on Terror
 	
 Governments come up with many excuses for war, but the "war on terror" is especially dangerous because it can be used to keep a country in an endless state of war. Because government programs are very difficult to end, an armed conflict against an unspecified enemy is every government's dream come true: perpetual war. The policies of the war on terror, as with most government programs, cause more of the problem. Governments of developed countries that occupy and intrude on developing nations cause terrorism. People resent having their societies taken over by foreign militaries, and after seeing their families killed and their way of life destroyed, resentment can become so great as to drive people to horrific violence. Foreign occupations cause such despair that victims often find their lives worth so little as to be easily sacrificed in resistance.
 
@@ -66,7 +66,7 @@ Any time a country is at war, the people tend to be fearful and that makes them 
 
 The war on terror is a particularly nasty racket, but it reveals how challenging it is now for governments to make large-scale war. In this age of global connectedness, starting a traditional military conflict seems increasingly unfeasible. By applying the same scrutiny to all excuses for violence, we will end all forms of war. Justifying violence in the name of promoting safety makes everyone less safe, but it still happens because someone is profiting.
 
-###7. Real Security
+## 7. Real Security
 
 Given what we know about governments and the motivation for war, it seems absurd that anyone would turn to one for security. Governments are not protection, they are protection rackets. National security is an excuse to defend exclusive taxation authority in their territory. Governments protect us like a rancher defends cattle. At home as abroad, governments use violence to expand their power. The best defense of a country is a well-armed population that refuses to submit to any organized system of exploitation.
 
