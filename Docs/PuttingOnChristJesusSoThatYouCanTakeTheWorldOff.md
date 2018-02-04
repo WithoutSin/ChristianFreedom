@@ -50,7 +50,7 @@ I will come back to this and redo it as a spider diagram.
 
 > **Psalms 62:6**  He only is my rock and my salvation, My stronghold; I shall not be shaken.
 
-> **Psalms 71:3**  Be to me a rock of habitation to which I may continually come; You have given commandment to save me, For You are my rock and my fortress.
+ > **Psalms 71:3**  Be to me a rock of habitation to which I may continually come; You have given commandment to save me, For You are my rock and my fortress.
 
 > **Psalms 94:22**  But the LORD has been my stronghold, And my God the rock of my refuge.
 
@@ -89,7 +89,7 @@ I will come back to this and redo it as a spider diagram.
 > **1 Peter 2:8**  and, "A STONE OF STUMBLING AND A ROCK OF OFFENSE"; for they stumble because they are disobedient to the word, and to this doom they were also appointed.
 
 ### Word
-####Treasure
+#### Treasure
 > **Psalm 119:11** Your word I have treasured in my heart, That I may not sin against You.
 
 #### Live on the word of God
