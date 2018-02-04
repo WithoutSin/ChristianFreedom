@@ -1,6 +1,6 @@
-##1. The Philosophy
+# 1. The Philosophy
 
-###1. Freedom
+## 1. Freedom
 
 Freedom is what you have when no one is forcing their will on you. Everyone inherently recognizes this as a good thing because we all value our power to make decisions. We all value making decisions without being threatened. Unfortunately, most of us have not taken the time to consider the precise nature of freedom and its foundation in universal undeniable principles. Applying those principles to big issues may be complicated, but the concept of freedom is not. When applied consistently, it shows the way to a more harmonious society.
 
@@ -10,7 +10,7 @@ Self-ownership is an integral part of being human. You own yourself. You own you
 
 Because you own yourself, it is wrong for someone to initiate force against you or your property. Acceptance of this simple fact is the foundation of a free and peaceful society. This universal non-aggression principle applies to everyone, and it is therefore wrong to kill, injure, assault, steal from, or threaten another person. Anyone who directly violates others, supports the violation of others, or violates others on behalf of someone else is holding us back from achieving our potential through the harmonious and mutually beneficial transactions that take place in freedom.
 
-###2. Government
+## 2. Government
 
 Very few people, even among government workers, have taken time to consider a precise definition of government. Governments get away with what they do because their true nature is obscured by propaganda. Most definitions describe **government** as the people in charge, but the foundation of control is always the threat of force. The authority claimed by governments is unique because it is considered license to use force or coercion against peaceful people. There is simply no way around it: government is control by force.
 
@@ -26,7 +26,7 @@ Government is like a cancer. Less government is better than more government, jus
 
 Government is control. Government is exploitation. Government is a protection racket. Government is disorder, violence, and conflict! Government is an idea so good that it has to be forced on us. Government is a group of people claiming a monopoly on the initiation of force in a specific territory. Government is the institutionalization of our worst desires to control, dominate, and take advantage of others by force. Governments reflect our tolerance for oppression, and all we need to do to defeat them is demand self-government.
 
-###3. Statism
+## 3. Statism
 
 Systems of control that depend on victim participation reflect the way we think. If we believe a strong central authority with power over us is necessary, that is the kind of government we will get. Seeking and resisting control have always been part of life, but over time we have demanded more self-government. We have moved from acceptance of crude slavery and serfdom to demanding some role in participatory government. Statism is the ideology of turning to organized force to solve problems better solved through peaceful persuasion.
 
@@ -38,7 +38,7 @@ If it is wrong for one person to do something, why is it acceptable when 51% of 
 
 As long as people demand a protection racket, they will get one. Regardless of what it is called, or what false ideology is used to justify it, government is based on forcing ideas on people. Statism is the dominant paradigm today because most of us are in denial or ignorant of its true nature. Dependence on government makes it scary to consider something new. When enough of us realize the ideals of freedom, and turn to cooperative solutions instead of turning to force to solve problems, the paradigm of statism will have passed, and the government racket will be seen for what it really is, before it is quickly abolished.
 
-###4. Property
+## 4. Property
 
 It takes severely twisted logic and a low sense of self-worth to deny that you own yourself. The very act of asserting this falsehood proves it wrong because the act of self-expression is an exercise of self-ownership! Anything less than self-ownership is slavery. All concepts of rights come from self-ownership. Your self-ownership is the acknowledgement by others of your right to control yourself. If you do not assert control over something of value, someone else will. Without the assertion of self-ownership, there is no freedom.
 
@@ -52,7 +52,7 @@ Just as you have a right to defend yourself and decide how to do it, you have a 
 
 Most conflicts center around property disputes. Disputes are sometimes based on confusion or sincere disagreement, but more often they are based on false claims to property. Such false claims are central to governments, which often assert that they, or the collectives they represent, own your income or your body. Governments also serve to enforce all types of false property constructs to serve the interests of the super rich. By obscuring the simple concept of property rights, governments have been able to commit untold injustice by transferring property from the poor to the rich. Justice requires a solid foundation in property rights.
 
-###5. Voluntaryism
+## 5. Voluntaryism
 
 From the foundation of self-ownership, we can build a system of justice based on property rights and the non-aggression principle. From this sense of justice, we can see that a free society would be one with only relationships free of force and coercion. This ideal would be a society free of violent control, and thus without anything like that which we call government today. This ideal society would be voluntary.
 
