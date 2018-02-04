@@ -1,6 +1,6 @@
-##5. Taxation
+# 5. Taxation
 
-###1. Taxation is Theft
+## 1. Taxation is Theft
 
 Theft is when someone takes something that doesn't belong to them. Either governments own "their people" as slaves, or taxation is theft. You own yourself. Therefore, taxation is theft. Because you own your body, your labor, and what you acquire by trade, taxation is theft. Governments are institutions used by the super rich to concentrate wealth and power. Since they are not earning money by offering goods or services for us to choose from freely, theft is their primary mechanism. Taxation is just a word that makes us more likely to go along with massive, widespread, organized theft.
 
@@ -22,7 +22,7 @@ The taxation racket has developed, evolved, and adapted to new circumstances and
 
 Taxation is an inescapable part of the government racket. If governments never stole, they would cease to be governments. If we could withdraw our financial support from them at any time, they would be voluntary cooperatives, or service providers. Because taxation is backed up with the threat of force, it is theft, plain and simple. 
 
-###2. Money & Banking as Theft
+## 2. Money & Banking as Theft
 
 If governments could only steal through direct taxation, they would still be huge burdens on society. Unfortunately, this only represents a small part of the taxation racket. Government sponsors have devised far greater ways of stealing from us through the banking system.
 
@@ -32,7 +32,7 @@ If people could avoid the inflation tax by using money that doesn't consistently
 
 Government money that isn't backed by anything allows all who benefit, either as early recipients of the new money or bankers authorized to create it, to siphon off massive amounts of wealth from the entire economy. It doesn't matter if banks have monopoly power from governments, or governments themselves run the banks, they exist to serve the super rich. As with all taxes, the purpose is to transfer wealth from the poor to the rich. In the case of the inflation tax, it is also a great way to convince the poor they aren't being taxed at all. The inflation tax hurts the poor and working class the most, and no one who uses government money is safe from it.
 
-###3. Why So Complicated?
+## 3. Why So Complicated?
 
 Taxation is a massive and complex undertaking for any government. Stealing from almost everyone in a country is no easy task, but governments have a way of making it look even more difficult and complicated than it really is. This is not due to the challenge of the task, or by accident, or the result of ineptitude. Governments intentionally create complex tax systems to favor special interests and make it difficult to challenge tax collectors.
 
@@ -40,7 +40,7 @@ A complicated tax code (along with a complicated legal system) allows for arbitr
 
 If you have the money or means to challenge the tax collectors in a government court, it can be very expensive, and you might end up with more money if you just give in. However, if you choose to fight some particular theft against yourself, you might lose and have to pay legal fees as well as whatever taxes (plus interest) the government wants to impose. Resisting government theft by turning to governments might seem silly, but the only alternative is to conduct our business so they can't see it. 
 	 
-###4. Land Theft & Property Taxes
+## 4. Land Theft & Property Taxes
 	
 Governments create many illusions to keep their citizens compliant and convinced they are being served, rather than ripped off. One of the most important illusions is a false sense of property. As long as you accept your government's conditions of ownership, it wants you to believe that you own yourself, your possessions, your home, and your land. In reality, it acts as if it owns you and everything within its territory. 
 
@@ -52,7 +52,7 @@ Property taxes are based on the idea that we must pay for the privilege of livin
 
 To governments, property is merely a matter of temporary control. They can steal whatever they want, as long as they have a good enough excuse for the enforcers to carry out the theft and keep people from revolting. If your government says you can own property and maintain control of it, but only if you pay property taxes, you are a renter, not an owner. Governments get away with these rackets because enough people still believe they somehow represent "the will of the people," as opposed to their sponsors.
 
-###5. Intergenerational Child Abuse
+## 5. Intergenerational Child Abuse
 
 When governments take on debt, it has very serious implications, especially for future generations. Because their primary source of revenue is theft, government debt is a promise to steal from someone in the future. In some countries, children today are born with a debt that would take them a lifetime to repay, even with extreme tax rates. When those who haven't even had a chance to vote are forced to pay for the mistakes of past generations, that is intergenerational child abuse.
 
@@ -61,4 +61,3 @@ People under governments with runaway debt generally oppose increasing it. Many 
 Examination of this problem is very revealing about governments, because that which is wrong about creating an expectation of theft against the next generation, is also wrong about what is happening now. It's not just about people not old enough to vote or influence the system, it's about everyone who doesn't get a real say in how that money is spent. That includes the vast majority of us. It should be no surprise that the greatest rackets the world has ever known have found a way to extend the ranks of their victims into the unborn. 
 
 What message does government debt send to young people born into debt slavery? This practice is not sustainable, and discontented youth will be the undoing of governments. Eventually a generation will come along and say, "It's not my debt!" and simply disown it. Do we want to pass on to our children a free world of opportunity, or one in which they are born into debt slavery to pay for our mistakes? 
-
