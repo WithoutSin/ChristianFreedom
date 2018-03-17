@@ -26,22 +26,23 @@ _The whole book is a work in progress._
  5. [Rotting life or Eternal life](Docs/RottingLifeOrEternalLife.md)
  6. [Putting on Christ Jesus so that you can take the world off](Docs/PuttingOnChristJesusSoThatYouCanTakeTheWorldOff.md)
  7. [God (Adonai), An Interview](Docs/God_Adonai_InAnInterview.md)
+ 8. [Dear ordained clergy,](Docs/stopfocusingondarkness.md)
 ### Work yet to be posted
- 7. Turning to the fountain of living waters
- 8. The renewed mind: Knowing what is good
- 9. Walking the book of Romans
- 10. Shedding fear
- 11. Living your new life in Christ
- 12. Marriage and the state, vs Marriage and Christ
- 13. Christ vision
- 14. The one body, Husband and Wife
- 15. Grooming your children to think, while they get to learn Christ
- 16. The work ethic of a sound minded Christian
- 17. Why the Apostle Paul was so hard to understand 2000 years ago, and why we are still having these problems
- 18 Circumcision: What was of the flesh, is now of the heart
- 19 Why all the water, a reality of the water baptism
- 20Meditation: Why it was so important in the bible
- 21 Receiving the Holy Spirit Today.
+ 9. Turning to the fountain of living waters
+ 10. The renewed mind: Knowing what is good
+ 11. Walking the book of Romans
+ 12. Shedding fear
+ 13. Living your new life in Christ
+ 14. Marriage and the state, vs Marriage and Christ
+ 15. Christ vision
+ 16. The one body, Husband and Wife
+ 17. Grooming your children to think, while they get to learn Christ
+ 18. The work ethic of a sound minded Christian
+ 19. Why the Apostle Paul was so hard to understand 2000 years ago, and why we are still having these problems
+ 20. Circumcision: What was of the flesh, is now of the heart
+ 21. Why all the water, a reality of the water baptism
+ 22. Meditation: Why it was so important in the bible
+ 23. Receiving the Holy Spirit Today.
 
 ## Freedom! by Adam Kokesh <sub>the book that inspired Christian Freedom!</sub>
 NOTE: Still being converted over from raw .txt to .md. Unicode characters are a pain.
