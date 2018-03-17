@@ -25,6 +25,7 @@ _The whole book is a work in progress._
  4. [Does God need a starship?](Docs/DoesGodneedastarship.md)
  5. [Rotting life or Eternal life](Docs/RottingLifeOrEternalLife.md)
  6. [Putting on Christ Jesus so that you can take the world off](Docs/PuttingOnChristJesusSoThatYouCanTakeTheWorldOff.md)
+ 7. [God (Adonai), An Interview](Docs/God_Adonai_InAnInterview.md)
 ### Work yet to be posted
  7. Turning to the fountain of living waters
  8. The renewed mind: Knowing what is good
