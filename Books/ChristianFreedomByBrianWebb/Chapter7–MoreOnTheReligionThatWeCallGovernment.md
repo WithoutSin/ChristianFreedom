@@ -2,7 +2,9 @@
 ## Government is as much of a religion as any other.
 Let’s remember chapter 2, 1st Samuel 8, short version: Don’t create a king.
 
-If that isn’t enough, let’s looks at modern leaders, as found in Wikipedia [http://en.wikipedia.org/wiki/List_of_people_who_have_been_considered_deities](http://en.wikipedia.org/wiki/List_of_people_who_have_been_considered_deities)
+If that isn’t enough, let’s looks at modern leaders, as found in Wikipedia 
+
+[http://en.wikipedia.org/wiki/List_of_people_who_have_been_considered_deities<br/>![QRCode](ListOfDiefiedPeople.png)](http://en.wikipedia.org/wiki/List_of_people_who_have_been_considered_deities)
 
 ### Imperial Cults
 
@@ -249,7 +251,9 @@ Claims to be Jesus Christ returned, which makes him not “God” but the “wor
 
 ### Church Entities
 
-You know you have a problem when the church has to release a document calling out the diefication of a Pope blasphemy. http://romancatholicbeliefs.org/pope-francis/the-deification-of-man-pope-francis-and-the-blasphemy-of-being-called-holy-father/
+You know you have a problem when the church has to release a document calling out the diefication of a Pope blasphemy. 
+
+[http://romancatholicbeliefs.org/pope-francis/the-deification-of-man-pope-francis-and-the-blasphemy-of-being-called-holy-father/<br/>![qrcode](DeifiedPope.png)](http://romancatholicbeliefs.org/pope-francis/the-deification-of-man-pope-francis-and-the-blasphemy-of-being-called-holy-father/)
 
 >There is only one person who deserves the title of “Holy Father” and he is sitting on a throne in Heaven, not on a throne over in the Vatican.
 
