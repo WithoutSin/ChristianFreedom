@@ -284,19 +284,19 @@ Let’s look at Pearl Harbor
 
 Book: Day of Deceit: The Truth About FDR and Pearl Harbor by Robert Stinnett
 
-* [http://en.wikipedia.org/wiki/Day_of_Deceit](http://en.wikipedia.org/wiki/Day_of_Deceit)
+* [http://en.wikipedia.org/wiki/Day_of_Deceit<br/>![qrcode](DayOfDeceteBook.png)](http://en.wikipedia.org/wiki/Day_of_Deceit)
 
 This book proposes that FDR knew about the planned attack and even had warning, but chose to do nothing, so that he could use the attack as a means to bring the US into a Euro-Asia war. However, there are strong arguments from historian Donald Steury that claim that the book is complete fiction. My position on this, the core of the story smells too much like other events like the Alamo, The twin Towers, and other “Government Failures”.
 
 Something to note: This topic is big enough in Wikipedia that it took two entries to cover everything.
 
-* [http://en.wikipedia.org/wiki/Pearl_Harbor_advance-knowledge_conspiracy_theory](http://en.wikipedia.org/wiki/Pearl_Harbor_advance-knowledge_conspiracy_theory)
+* [http://en.wikipedia.org/wiki/Pearl_Harbor_advance-knowledge_conspiracy_theory<br/>![qrcode](Pearl_Harbor_advance-knowledge_conspiracy_theory.png)](http://en.wikipedia.org/wiki/Pearl_Harbor_advance-knowledge_conspiracy_theory)
 
 ### Here are some other supporting links:
 
-* [http://www.independent.org/newsroom/article.asp?id=1930](http://www.independent.org/newsroom/article.asp?id=1930)
-* [http://en.wikipedia.org/wiki/McCollum_memo](http://en.wikipedia.org/wiki/McCollum_memo)
-* [http://www.rationalrevolution.net/war/fdr_provoked_the_japanese_attack.htm](http://www.rationalrevolution.net/war/fdr_provoked_the_japanese_attack.htm)
+* [http://www.independent.org/newsroom/article.asp?id=1930<br/>![qrcode](independentArticle1930.png)](http://www.independent.org/newsroom/article.asp?id=1930)
+* [http://en.wikipedia.org/wiki/McCollum_memo<br/>![qrcode](McCollum_memo.png)](http://en.wikipedia.org/wiki/McCollum_memo)
+* [http://www.rationalrevolution.net/war/fdr_provoked_the_japanese_attack.htm<br/>![qrcode](fdr_provoked_the_japanese_attack.png)](http://www.rationalrevolution.net/war/fdr_provoked_the_japanese_attack.htm)
 
 I will not cover the 911 theories and conspiracies here, they are a side track to the message.
 ### Let’s go back about two thousand years.
@@ -311,7 +311,7 @@ Now going for strike three, they pay off one of Jesus’ own men, to turn him in
 
 How many innocent people have their lives ruined because of government agencies like Bureau of Land Management, Bureau of Alcohol and Tobacco, Internal Revenue Service, Environmental Protection Agency. Let’s not forget the police shooting database:
 
-* [http://regressing.deadspin.com/deadspin-police-shooting-database-update-were-still-go-1627414202](http://regressing.deadspin.com/deadspin-police-shooting-database-update-were-still-go-1627414202)
+* [http://regressing.deadspin.com/deadspin-police-shooting-database-update-were-still-go-1627414202<br/>![qrcode](deadspin-police-shooting-database-update-were-still-go-1627414202.png)](http://regressing.deadspin.com/deadspin-police-shooting-database-update-were-still-go-1627414202)
 
 I am not saying that all police shootings are amoral, but because of public and free media, they are definitely becoming more to light. The thin blue line in some counties and cities look more like outlines of the dead bodies that the police are leaving behind. I fortunately live in a city where this is incredibly minimal. Heck, I even have a couple of local police officers that I call friends. Does that mean I condone local police? I condone it a lot more than federal police.
 
