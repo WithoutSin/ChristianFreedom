@@ -27,6 +27,7 @@ _The whole book is a work in progress._
  6. [Putting on Christ Jesus so that you can take the world off](Docs/PuttingOnChristJesusSoThatYouCanTakeTheWorldOff.md)
  7. [God (Adonai), An Interview](Docs/God_Adonai_InAnInterview.md)
  8. [Dear ordained clergy,](Docs/stopfocusingondarkness.md)
+ 9. [The end times: A Mathew 24 walkthough](Docs/The%20end%20times%20-%20A%20Mathew%2024%20walkthough.md)
 ### Work yet to be posted
  9. Turning to the fountain of living waters
  10. The renewed mind: Knowing what is good
