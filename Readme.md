@@ -29,21 +29,21 @@ _The whole book is a work in progress._
  8. [Dear ordained clergy,](Docs/stopfocusingondarkness.md)
  9. [The end times: A Mathew 24 walkthough](Docs/The%20end%20times%20-%20A%20Mathew%2024%20walkthough.md)
 ### Work yet to be posted
- 9. Turning to the fountain of living waters
- 10. The renewed mind: Knowing what is good
- 11. Walking the book of Romans
- 12. Shedding fear
- 13. Living your new life in Christ
- 14. Marriage and the state, vs Marriage and Christ
- 15. Christ vision
- 16. The one body, Husband and Wife
- 17. Grooming your children to think, while they get to learn Christ
- 18. The work ethic of a sound minded Christian
- 19. Why the Apostle Paul was so hard to understand 2000 years ago, and why we are still having these problems
- 20. Circumcision: What was of the flesh, is now of the heart
- 21. Why all the water, a reality of the water baptism
- 22. Meditation: Why it was so important in the bible
- 23. Receiving the Holy Spirit Today.
+ 10. Turning to the fountain of living waters
+ 11. The renewed mind: Knowing what is good
+ 12. Walking the book of Romans
+ 13. Shedding fear
+ 14. Living your new life in Christ
+ 15. Marriage and the state, vs Marriage and Christ
+ 16. Christ vision
+ 17. The one body, Husband and Wife
+ 18. Grooming your children to think, while they get to learn Christ
+ 19. The work ethic of a sound minded Christian
+ 20. Why the Apostle Paul was so hard to understand 2000 years ago, and why we are still having these problems
+ 21. Circumcision: What was of the flesh, is now of the heart
+ 22. Why all the water, a reality of the water baptism
+ 23. Meditation: Why it was so important in the bible
+ 24. Receiving the Holy Spirit Today.
 
 ## Freedom! by Adam Kokesh <sub>the book that inspired Christian Freedom!</sub>
 NOTE: Still being converted over from raw .txt to .md. Unicode characters are a pain.
