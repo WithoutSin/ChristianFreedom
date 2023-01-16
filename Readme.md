@@ -37,7 +37,7 @@ _The whole book is a work in progress._
  15. Marriage and the state, vs Marriage and Christ
  16. Christ vision
  17. The one body, Husband and Wife
- 18. Grooming your children to think, while they get to learn Christ
+ 18. Coaching your children to think, while they get to learn Christ
  19. The work ethic of a sound minded Christian
  20. Why the Apostle Paul was so hard to understand 2000 years ago, and why we are still having these problems
  21. Circumcision: What was of the flesh, is now of the heart
