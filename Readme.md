@@ -31,19 +31,21 @@ _The whole book is a work in progress._
 ### Work yet to be posted
  10. Turning to the fountain of living waters
  11. The renewed mind: Knowing what is good
- 12. Walking the book of Romans
+ 12. Walking through the book of Romans
  13. Shedding fear
  14. Living your new life in Christ
  15. Marriage and the state, vs Marriage and Christ
- 16. Christ vision
+ 16. Christ's vision
  17. The one body, Husband and Wife
  18. Coaching your children to think, while they get to learn Christ
- 19. The work ethic of a sound minded Christian
- 20. Why the Apostle Paul was so hard to understand 2000 years ago, and why we are still having these problems
+ 19. The work ethic of a sound-minded Christian
+ 20. Why the Apostle Paul is so hard to understand 2000 years ago, and why are we still having these problems
  21. Circumcision: What was of the flesh, is now of the heart
  22. Why all the water, a reality of the water baptism
  23. Meditation: Why it was so important in the bible
  24. Receiving the Holy Spirit Today.
+ 25. [Hearing the Word of God](Docs/HearingTheWord.md)
+ 26. [Does God need a Starship?](Docs/DoesGodneedastarship.md)
 
 ## Freedom! by Adam Kokesh <sub>the book that inspired Christian Freedom!</sub>
 NOTE: Still being converted over from raw .txt to .md. Unicode characters are a pain.
