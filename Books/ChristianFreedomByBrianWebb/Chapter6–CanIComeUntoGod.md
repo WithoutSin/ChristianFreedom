@@ -75,6 +75,13 @@ So Paul is not setting the Torah against Christ. He is showing the difference be
 
 ---
 
+## 7 Confession and Belief Unto Salvation
+
+Romans 10:9–10 [KJV]: 
+> “That if thou shalt confess with thy mouth the Lord Jesus, and shalt believe in thine heart that God hath raised him from the dead, thou shalt be saved. For with the heart man believeth unto righteousness; and with the mouth confession is made unto salvation.”
+
+Here lies the simplicity of the Gospel. The flesh cannot produce righteousness. Christ has already finished the work. Our response is to believe God’s word and confess Jesus Christ as Lord.
+
 ## 8 Faith Leading to Righteousness
 
 Romans 15:13 [NASB]:
