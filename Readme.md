@@ -12,10 +12,16 @@ _The whole book is a work in progress._
 5. Chapter 4 - [The Prophesy of the Law, and how it was fulfilled](Books/ChristianFreedomByBrianWebb/Chapter4–TheProphesyOfTheLawAndHowItWasFulfilled.md)
 6. Chapter 5 - [Truth of Romans 13, and why it has nothing to do with Government](Books/ChristianFreedomByBrianWebb/Chapter5–TruthOfRomans13AndWhyItHasNothingToDoWithGovernment.md)
 7. Chapter 6 - [Can I come unto God?](Books/ChristianFreedomByBrianWebb/Chapter6–CanIComeUntoGod.md)
+8. Coming Soon.
+9. Coming Soon.
+10. Coming Soon.
+11. Chapter 10 - What now? The meaning of life, the universe, and everything. _Work in progress_
+
+#### Retired Chapters from Christian Freedom!
 8. Chapter 7 - [More on the religion that we call Government](Books/ChristianFreedomByBrianWebb/Chapter7–MoreOnTheReligionThatWeCallGovernment.md)
 9. Chapter 8 - [What is the burning lake? Why would you bother fearing it?](Books/ChristianFreedomByBrianWebb/Chapter8–WhatIsTheBurningLakeWhyWouldYouBotherFearingIt.md)
 10. Chapter 9 - [A closing note to Christians, Other Theists, Atheist and Agnostics.](Books/ChristianFreedomByBrianWebb/Chapter9–AClosingNoteToChristiansOtherTheistsAtheistAndAgnostics.md)
-11. Chapter 10 - What now? The meaning of life, the universe, and everything. _Work in progress_
+
 
 ## Supplemental Information
 ### Work in Progress
