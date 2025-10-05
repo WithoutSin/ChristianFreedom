@@ -1,4 +1,6 @@
 # Chapter 7: Historical Evidence of Jesus the Messiah
+Here’s a survey of the principal non‑biblical (and early Christian) sources that attest to Jesus’ historical existence, His resurrection, and (to a lesser extent) His ascension:
+
 ## 1. Sources for Jesus’ Existence
 1. Flavius Josephus (c. 37 - c. 100 AD), Antiquities 18.3.3<br/>
     “Now there was about this time Jesus, a wise man… He drew over to him both many of the Jews and many of the Gentiles. He was the Christ. And when Pilate… condemned Him to the cross, those who had loved Him at the first did not forsake Him; for He appeared to them alive again on the third day…”<br/><br/>
