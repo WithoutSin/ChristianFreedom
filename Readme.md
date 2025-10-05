@@ -17,7 +17,7 @@ _The whole book is a work in progress._
 10. Coming Soon.
 11. Chapter 10 - What now? The meaning of life, the universe, and everything. _Work in progress_
 
-#### Retired Chapters from Christian Freedom!
+#### Retired Chapters from Christian Freedom! [^WhyRetire]
 8. Chapter 7 - [More on the religion that we call Government](Books/ChristianFreedomByBrianWebb/Chapter7–MoreOnTheReligionThatWeCallGovernment.md)
 9. Chapter 8 - [What is the burning lake? Why would you bother fearing it?](Books/ChristianFreedomByBrianWebb/Chapter8–WhatIsTheBurningLakeWhyWouldYouBotherFearingIt.md)
 10. Chapter 9 - [A closing note to Christians, Other Theists, Atheist and Agnostics.](Books/ChristianFreedomByBrianWebb/Chapter9–AClosingNoteToChristiansOtherTheistsAtheistAndAgnostics.md)
@@ -74,3 +74,5 @@ NOTE: Still being converted over from raw .txt to .md. Unicode characters are a 
 
 # License
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Christian Freedom</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="http://withoutsin.org" property="cc:attributionName" rel="cc:attributionURL">Brian Webb</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.<br />Based on a work at <a xmlns:dct="http://purl.org/dc/terms/" href="https://github.com/WithoutSin/ChristianFreedom" rel="dct:source">https://github.com/WithoutSin/ChristianFreedom</a>.
+
+[^WhyRetire]: These chapters have either outlived their usefulness or have painful flaws that, after fixing, don't provide any additional value.
