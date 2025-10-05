@@ -51,49 +51,49 @@ Taken together, both **Jewish** and **Roman** historians of the 1st–2nd cent
 While the **miraculous elements** (empty tomb, appearances, ascension) are primarily attested within Christian writings, the **rapid growth** of the movement, even under persecution, lends strong indirect support to their early historicity.
 
 ## 6. Bibliography
-### 1. Flavius Josephus, The Antiquities of the Jews
-* Book 18, Chapter 3, Section 3 (the “Testimonium Flavianum”).
-* Common critical edition: Whiston’s translation or the Loeb Classical Library edition (trans. H. St. J. Thackeray).
+1. Flavius Josephus, The Antiquities of the Jews
+    * Book 18, Chapter 3, Section 3 (the “Testimonium Flavianum”).
+    * Common critical edition: Whiston’s translation or the Loeb Classical Library edition (trans. H. St. J. Thackeray).
 
-### 2. Tacitus, The Annals
-* Book 15, Chapter 44 (reference to Christus and Pilate).
-* Standard modern edition: Loeb Classical Library (trans. Alfred John Church & William Jackson Brodribb).
+2. Tacitus, The Annals
+    * Book 15, Chapter 44 (reference to Christus and Pilate).
+    * Standard modern edition: Loeb Classical Library (trans. Alfred John Church & William Jackson Brodribb).
 
-### 3.Pliny the Younger, Letters
-* Book 10, Letter 96 (to Emperor Trajan, c. 112 AD).
-* Often cited in Loeb Classical Library or Penguin Classics editions.
+3. Pliny the Younger, Letters
+    * Book 10, Letter 96 (to Emperor Trajan, c. 112 AD).
+    * Often cited in Loeb Classical Library or Penguin Classics editions.
 
-### 4. Suetonius, The Lives of the Caesars (De vita Caesarum)
-* “Claudius,” Chapter 25.4 (“Chrestus”).
-* Widely available in Penguin Classics and Loeb editions.
+4. Suetonius, The Lives of the Caesars (De vita Caesarum)
+    * “Claudius,” Chapter 25.4 (“Chrestus”).
+    * Widely available in Penguin Classics and Loeb editions.
 
-### 5. Babylonian Talmud, Tractate Sanhedrin 43a
-* Traditional rabbinic collection, printed in the Vilna edition and standard editions of the Talmud.
+5. Babylonian Talmud, Tractate Sanhedrin 43a
+    * Traditional rabbinic collection, printed in the Vilna edition and standard editions of the Talmud.
 
-### 6. Pauline Epistle, 1 Corinthians 15:3-8
-* New Testament canon (NASB translation used for quotation).
+6. Pauline Epistle, 1 Corinthians 15:3-8
+    * New Testament canon (NASB translation used for quotation).
 
-### 7. Justin Martyr, First Apology
-* Chapter 29 (on Christian worship of the crucified and risen Jesus).
-* See the Loeb edition (trans. Thomas B. Falls) or The Ante-Nicene Fathers, Vol. 1.
+7. Justin Martyr, First Apology
+    * Chapter 29 (on Christian worship of the crucified and risen Jesus).
+    * See the Loeb edition (trans. Thomas B. Falls) or The Ante-Nicene Fathers, Vol. 1.
 
-### 8. Origen, Against Celsus (Contra Celsum)
-* Book 2, Section 56 (empty tomb and witnesses).
-* Critical edition: GCS Origeniana or Nicene and Post-Nicene Fathers, Vol. 4.
+8. Origen, Against Celsus (Contra Celsum)
+    * Book 2, Section 56 (empty tomb and witnesses).
+    * Critical edition: GCS Origeniana or Nicene and Post-Nicene Fathers, Vol. 4.
 
-### 9. Luke–Acts (Gospel of Luke & Acts of the Apostles)
-* Acts 1:9-11 (narrative of the Ascension).
-* New Testament canon (NASB translation).
+9. Luke–Acts (Gospel of Luke & Acts of the Apostles)
+    * Acts 1:9-11 (narrative of the Ascension).
+    * New Testament canon (NASB translation).
 
-### 10. Pauline Epistle, 1 Timothy 3:16
-* Early Christological confession (“…was taken up in glory”).
-* New Testament canon (NASB).
+10. Pauline Epistle, 1 Timothy 3:16
+    * Early Christological confession (“…was taken up in glory”).
+    * New Testament canon (NASB).
 
-### 11. Apostles’ Creed
-* Late 2nd–3rd century baptismal creed, preserved in numerous patristic and liturgical sources (e.g. De Viris Illustribus of Jerome).
+11. Apostles’ Creed
+    * Late 2nd–3rd century baptismal creed, preserved in numerous patristic and liturgical sources (e.g. De Viris Illustribus of Jerome).
 
-### 12. Irenaeus, Against Heresies (Adversus Haereses)
-* Book 3, Chapter 21.1 (affirmation of bodily Ascension and its soteriological significance).
-* Standard in Loeb Classical Library (trans. John J. Dillon).
+12. Irenaeus, Against Heresies (Adversus Haereses)
+    * Book 3, Chapter 21.1 (affirmation of bodily Ascension and its soteriological significance).
+    * Standard in Loeb Classical Library (trans. John J. Dillon).
 
 These are the foundational texts, both non‑Christian historians and early Christian writings, used to map the historical attestations to Jesus’ life, death, resurrection, and ascension.
